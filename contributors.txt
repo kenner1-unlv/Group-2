@@ -2,5 +2,6 @@ Team Contributors
 
 Name | GitHub Username
 -----|----------------
+Russell Kennedy  | Kenner1-unlv
 Michael Podolsky | MikePodo
 Ethan Guillem | ethanvfour
