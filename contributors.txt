@@ -4,4 +4,4 @@ Name | GitHub Username
 -----|----------------
 Russell Kennedy  | Kenner1-unlv
 Michael Podolsky | MikePodo
-
+Sokrat Rostomyan | rosto-designs
