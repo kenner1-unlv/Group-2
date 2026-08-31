@@ -2,6 +2,6 @@ Team Contributors
 
 Name | GitHub Username
 -----|----------------
+Peter Nguyen     | Peekans
 Russell Kennedy  | Kenner1-unlv
 Michael Podolsky | MikePodo
-
