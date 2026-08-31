@@ -20,20 +20,15 @@ def github_auth(url, lsttoken, ct):
         print(e)
     return jsonData, ct
 
-# Collect author and change-date information for one source file
+# Collect author and date information for one source file
 def get_file_history(repo, filename, lsttokens):
     ipage = 1
     ct = 0
-
-    authors = set()
-    dates = []
-    touch_count = 0
-
+    changes = []
     try:
-        # Loop through all commit pages for this specific file
+        # Loop through every page of commits for this file
         while True:
             spage = str(ipage)
-
             commitsUrl = (
                 'https://api.github.com/repos/' + repo +
                 '/commits?path=' + filename +
@@ -47,23 +42,19 @@ def get_file_history(repo, filename, lsttokens):
                 ct
             )
 
-            # Stop when there are no more commits
+            # No more commits
             if len(jsonCommits) == 0:
                 break
-
-            # Collect author and date for each change
             for commitObject in jsonCommits:
                 commitData = commitObject['commit']
                 author = commitData['author']['name']
                 date = commitData['author']['date']
-                authors.add(author)
-                dates.append(date)
-                touch_count += 1
+                changes.append([author, date])
             ipage += 1
     except Exception as e:
         print("Error receiving data for " + filename)
         print(e)
-    return authors, dates, touch_count
+    return changes
 
 # GitHub repo
 repo = 'scottyab/rootbeer'
@@ -73,42 +64,54 @@ githubToken = os.getenv("GITHUB_TOKEN")
 if githubToken is None:
     print("Error: GITHUB_TOKEN environment variable is not set.")
     exit(1)
-  
+
 lstTokens = [githubToken]
 
-# Read the source files identified in Task 1
+# Read source files identified by Task 1
 sourceFiles = []
 with open('data/file_rootbeer.csv', 'r') as fileCSV:
     reader = csv.DictReader(fileCSV)
     for row in reader:
         sourceFiles.append(row['Filename'])
+        
 print('Total number of source files: ' + str(len(sourceFiles)))
 
-# Output file for Task 2
+# Task 2 output
 fileOutput = 'data/authors_file_touches_rootbeer.csv'
 fileCSV = open(fileOutput, 'w', newline='')
 writer = csv.writer(fileCSV)
-rows = ["Filename", "Authors", "Dates", "Touches"]
-writer.writerow(rows)
+writer.writerow([
+    "Filename",
+    "Author",
+    "Date",
+    "Touches"
+])
 
-# Collect history for every source file
+# Process every source file
 for filename in sourceFiles:
     print('Processing: ' + filename)
-    authors, dates, touch_count = get_file_history(
+    changes = get_file_history(
         repo,
         filename,
         lstTokens
     )
-  
-    # Convert lists/sets into strings for the CSV
-    authorsString = '; '.join(sorted(authors))
-    datesString = '; '.join(dates)
-    rows = [
-        filename,
-        authorsString,
-        datesString,
-        touch_count
-    ]
-    writer.writerow(rows)
+
+    # Number of commits that changed this file
+    touch_count = len(changes)
+
+    # Write one row for every change
+    for change in changes:
+        author = change[0]
+        date = change[1]
+        writer.writerow([
+            filename,
+            author,
+            date,
+            touch_count
+        ])
+        
 fileCSV.close()
-print('Author and file-touch data written to: ' + fileOutput)
+print(
+    'Author and file-touch data written to: '
+    + fileOutput
+)
