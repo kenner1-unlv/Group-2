@@ -2,7 +2,7 @@ Team Contributors
 
 Name | GitHub Username
 -----|----------------
+Astrid Jimenez   | Jimenaz29
 Russell Kennedy  | Kenner1-unlv
 Michael Podolsky | MikePodo
 Glen Testamark   | geeklay
-Astrid Jimenez   | Jimenaz29
