@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 # Input from Task 2
 input_file = "data/authors_file_touches_rootbeer.csv"
 
-output_file = "rosto-designs_file_activity.png"
+output_file = "repo_mining/rosto-designs_file_activity.png"
 
 changes = []
 
