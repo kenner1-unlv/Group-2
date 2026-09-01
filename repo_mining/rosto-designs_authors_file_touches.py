@@ -69,7 +69,7 @@ lstTokens = [githubToken]
 
 # Read source files identified by Task 1
 sourceFiles = []
-with open('data/file_rootbeer.csv', 'r') as fileCSV:
+with open('repo_mining/data/rosto-designs_file_rootbeer.csv', 'r') as fileCSV:
     reader = csv.DictReader(fileCSV)
     for row in reader:
         sourceFiles.append(row['Filename'])
@@ -77,7 +77,7 @@ with open('data/file_rootbeer.csv', 'r') as fileCSV:
 print('Total number of source files: ' + str(len(sourceFiles)))
 
 # Task 2 output
-fileOutput = 'data/authors_file_touches_rootbeer.csv'
+fileOutput = 'repo_mining/data/rosto-designs_authors_file_touches_rootbeer.csv'
 fileCSV = open(fileOutput, 'w', newline='')
 writer = csv.writer(fileCSV)
 writer.writerow([

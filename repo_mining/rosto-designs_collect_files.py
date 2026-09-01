@@ -133,7 +133,7 @@ print('Total number of source files: ' + str(len(dictfiles)))
 
 file = repo.split('/')[1]
 # change this to the path of your file
-fileOutput = 'data/file_' + file + '.csv'
+fileOutput = 'repo_mining/data/rosto-designs_file_' + file + '.csv'
 rows = ["Filename", "Touches"]
 fileCSV = open(fileOutput, 'w', newline='')  # small Windows CSV improvement
 writer = csv.writer(fileCSV)

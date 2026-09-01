@@ -4,7 +4,7 @@ from datetime import datetime
 import matplotlib.pyplot as plt
 
 # Input from Task 2
-input_file = "data/authors_file_touches_rootbeer.csv"
+input_file = "repo_mining/data/rosto-designs_authors_file_touches_rootbeer.csv"
 
 output_file = "repo_mining/rosto-designs_file_activity.png"
 
