@@ -2,6 +2,7 @@ Team Contributors
 
 Name | GitHub Username
 -----|----------------
+Ethan Guillem    | ethanvfour
 Astrid Jimenez   | Jimenaz29
 Jonathan Johnson | johns216
 Russell Kennedy  | Kenner1-unlv
