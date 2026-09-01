@@ -25,7 +25,6 @@ def is_source_file(filename):
     source_extensions = (
         '.java',
         '.kt',
-        '.kts',
         '.c',
         '.cpp',
         '.h',
