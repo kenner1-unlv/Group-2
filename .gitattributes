@@ -1,0 +1,3 @@
+# Generated reports and visualizations are binary files
+*.pdf binary
+*.png binary

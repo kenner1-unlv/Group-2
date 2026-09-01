@@ -1,0 +1,1886 @@
+{
+  "repository": "scottyab/rootbeer",
+  "default_branch": "master",
+  "repository_start_date": "2015-06-19T09:01:56Z",
+  "generated_at": "2026-08-31T02:51:48.173488+00:00",
+  "source_extensions": [
+    ".c",
+    ".cpp",
+    ".h",
+    ".java",
+    ".kt"
+  ],
+  "file_scope": "historical default-branch source paths",
+  "touch_definition": "one commit changing one historical source path",
+  "files": [
+    {
+      "path": "app/jni/rootChecker.cpp",
+      "touches": 1,
+      "authors": [
+        {
+          "author": "stealthcopter",
+          "touches": 1
+        }
+      ],
+      "changes": [
+        {
+          "sha": "f1592567a2d5c8a8f1c1fe8921e23a630b7d86c6",
+          "author": "stealthcopter",
+          "date": "2015-06-19T10:09:22Z"
+        }
+      ]
+    },
+    {
+      "path": "app/jni/rootChecker.h",
+      "touches": 1,
+      "authors": [
+        {
+          "author": "stealthcopter",
+          "touches": 1
+        }
+      ],
+      "changes": [
+        {
+          "sha": "f1592567a2d5c8a8f1c1fe8921e23a630b7d86c6",
+          "author": "stealthcopter",
+          "date": "2015-06-19T10:09:22Z"
+        }
+      ]
+    },
+    {
+      "path": "app/jni/toolChecker.cpp",
+      "touches": 2,
+      "authors": [
+        {
+          "author": "scottyab",
+          "touches": 1
+        },
+        {
+          "author": "stealthcopter",
+          "touches": 1
+        }
+      ],
+      "changes": [
+        {
+          "sha": "81e37803dccfd41189847fb9c8e682031f642305",
+          "author": "stealthcopter",
+          "date": "2015-06-19T11:06:02Z"
+        },
+        {
+          "sha": "fdb18e5e2e15c0a7a5cb5ab6d95a569e702c3253",
+          "author": "scottyab",
+          "date": "2015-06-19T17:21:37Z"
+        }
+      ]
+    },
+    {
+      "path": "app/jni/toolChecker.h",
+      "touches": 2,
+      "authors": [
+        {
+          "author": "scottyab",
+          "touches": 1
+        },
+        {
+          "author": "stealthcopter",
+          "touches": 1
+        }
+      ],
+      "changes": [
+        {
+          "sha": "81e37803dccfd41189847fb9c8e682031f642305",
+          "author": "stealthcopter",
+          "date": "2015-06-19T11:06:02Z"
+        },
+        {
+          "sha": "fdb18e5e2e15c0a7a5cb5ab6d95a569e702c3253",
+          "author": "scottyab",
+          "date": "2015-06-19T17:21:37Z"
+        }
+      ]
+    },
+    {
+      "path": "app/src/androidTest/java/com/scottyab/rootbeer/ApplicationTest.java",
+      "touches": 6,
+      "authors": [
+        {
+          "author": "danielkutik",
+          "touches": 2
+        },
+        {
+          "author": "stealthcopter",
+          "touches": 2
+        },
+        {
+          "author": "friederbluemle",
+          "touches": 1
+        },
+        {
+          "author": "scottyab",
+          "touches": 1
+        }
+      ],
+      "changes": [
+        {
+          "sha": "d246945d2575623ca137fcc0a4ef1eb8f3c68fab",
+          "author": "scottyab",
+          "date": "2015-06-26T15:50:40Z"
+        },
+        {
+          "sha": "f2ea0bd158f20de2810f98228aea6c6d061ff282",
+          "author": "friederbluemle",
+          "date": "2017-05-11T16:41:00Z"
+        },
+        {
+          "sha": "c3715fc19d306dfce8b4a1a436c3839061148110",
+          "author": "stealthcopter",
+          "date": "2017-05-12T21:31:11Z"
+        },
+        {
+          "sha": "94e8c24b687b69b04c1910c22aa224f8e7fd5f3d",
+          "author": "danielkutik",
+          "date": "2019-11-16T02:34:24Z"
+        },
+        {
+          "sha": "d1513cad35471a37772e443d732cdd71652ec2b9",
+          "author": "danielkutik",
+          "date": "2019-11-16T02:45:47Z"
+        },
+        {
+          "sha": "7815ef83b8b88b1ef1fab3ea30f4c8d7712dff19",
+          "author": "stealthcopter",
+          "date": "2020-02-03T20:42:40Z"
+        }
+      ]
+    },
+    {
+      "path": "app/src/androidTest/java/com/scottyab/rootchecker/ApplicationTest.java",
+      "touches": 1,
+      "authors": [
+        {
+          "author": "scottyab",
+          "touches": 1
+        }
+      ],
+      "changes": [
+        {
+          "sha": "08453399a94b7ba050345332190e89470162658c",
+          "author": "scottyab",
+          "date": "2015-06-19T09:05:10Z"
+        }
+      ]
+    },
+    {
+      "path": "app/src/main/java/com/scottyab/rootbeer/sample/CheckForRootWorker.kt",
+      "touches": 6,
+      "authors": [
+        {
+          "author": "scottyab",
+          "touches": 5
+        },
+        {
+          "author": "grubeli",
+          "touches": 1
+        }
+      ],
+      "changes": [
+        {
+          "sha": "3163211e242e6310117c5c92dfe4f0c6c7cc18b2",
+          "author": "scottyab",
+          "date": "2021-05-08T14:18:37Z"
+        },
+        {
+          "sha": "88dbbd2328a28541740b00bff818b5fcba21da40",
+          "author": "scottyab",
+          "date": "2021-05-21T14:40:38Z"
+        },
+        {
+          "sha": "c0840f172dfe0ec292f49b0a49baeba2dc26b8ed",
+          "author": "scottyab",
+          "date": "2021-05-24T07:45:07Z"
+        },
+        {
+          "sha": "d9057ce490c3481bc9be852e343678c93860e6a8",
+          "author": "scottyab",
+          "date": "2021-05-24T07:46:20Z"
+        },
+        {
+          "sha": "091a157959a2de58abc4b51b99fb9189ecd284e2",
+          "author": "grubeli",
+          "date": "2021-11-16T14:04:57Z"
+        },
+        {
+          "sha": "52470e427026fda0b134e7680d8301636682deee",
+          "author": "scottyab",
+          "date": "2024-09-12T10:16:21Z"
+        }
+      ]
+    },
+    {
+      "path": "app/src/main/java/com/scottyab/rootbeer/sample/CheckRootTask.java",
+      "touches": 11,
+      "authors": [
+        {
+          "author": "stealthcopter",
+          "touches": 5
+        },
+        {
+          "author": "scottyab",
+          "touches": 3
+        },
+        {
+          "author": "andyb129",
+          "touches": 1
+        },
+        {
+          "author": "danielkutik",
+          "touches": 1
+        },
+        {
+          "author": "p2paltvnv",
+          "touches": 1
+        }
+      ],
+      "changes": [
+        {
+          "sha": "8fe8cf3c9e76b7eaabc3d7732ab04ab2dc8e8c1c",
+          "author": "scottyab",
+          "date": "2016-07-01T14:25:44Z"
+        },
+        {
+          "sha": "8970ccf943e064e6fedd929279f0d804b43e6ff2",
+          "author": "andyb129",
+          "date": "2016-07-01T14:40:45Z"
+        },
+        {
+          "sha": "4a2529a807bf4de31211e622a102410eb9bd995b",
+          "author": "scottyab",
+          "date": "2016-07-01T20:13:06Z"
+        },
+        {
+          "sha": "55a4c8f28bf53e479a485fb9ba44279144f6526e",
+          "author": "stealthcopter",
+          "date": "2017-02-15T12:53:36Z"
+        },
+        {
+          "sha": "1d91999332432d5bb85facfb184fa5b525a8667c",
+          "author": "stealthcopter",
+          "date": "2017-03-29T11:18:37Z"
+        },
+        {
+          "sha": "bfba45649d5b94d4843443dcbddaab40c88132e6",
+          "author": "p2paltvnv",
+          "date": "2018-03-16T16:42:19Z"
+        },
+        {
+          "sha": "1a87fc43254349a7bfe72a8e57e8aa2662f07130",
+          "author": "stealthcopter",
+          "date": "2018-03-20T17:57:33Z"
+        },
+        {
+          "sha": "8b985d927ff18acc804440a84c6d2b5efee0c6d9",
+          "author": "stealthcopter",
+          "date": "2019-03-14T12:24:58Z"
+        },
+        {
+          "sha": "1ea425289fbd480147be2e584def97b2f89497ad",
+          "author": "danielkutik",
+          "date": "2019-11-16T02:39:54Z"
+        },
+        {
+          "sha": "7815ef83b8b88b1ef1fab3ea30f4c8d7712dff19",
+          "author": "stealthcopter",
+          "date": "2020-02-03T20:42:40Z"
+        },
+        {
+          "sha": "3163211e242e6310117c5c92dfe4f0c6c7cc18b2",
+          "author": "scottyab",
+          "date": "2021-05-08T14:18:37Z"
+        }
+      ]
+    },
+    {
+      "path": "app/src/main/java/com/scottyab/rootbeer/sample/MainActivity.java",
+      "touches": 14,
+      "authors": [
+        {
+          "author": "scottyab",
+          "touches": 9
+        },
+        {
+          "author": "stealthcopter",
+          "touches": 2
+        },
+        {
+          "author": "andyb129",
+          "touches": 1
+        },
+        {
+          "author": "danielkutik",
+          "touches": 1
+        },
+        {
+          "author": "Mohammed Ezzat",
+          "touches": 1
+        }
+      ],
+      "changes": [
+        {
+          "sha": "d246945d2575623ca137fcc0a4ef1eb8f3c68fab",
+          "author": "scottyab",
+          "date": "2015-06-26T15:50:40Z"
+        },
+        {
+          "sha": "57a0ccf5794e9890e1c438ab1f424401c046341d",
+          "author": "scottyab",
+          "date": "2015-06-29T13:06:14Z"
+        },
+        {
+          "sha": "4926749156fbd8e1d48ec713aaf1269e84e8b6b5",
+          "author": "scottyab",
+          "date": "2015-06-30T14:14:08Z"
+        },
+        {
+          "sha": "9bb704339eddab021e2c54e1df2aea72a8950ebb",
+          "author": "scottyab",
+          "date": "2015-06-30T14:45:12Z"
+        },
+        {
+          "sha": "7d5eb66fd85ca9c7fcbf8275e9bff713271352b7",
+          "author": "scottyab",
+          "date": "2015-09-16T12:14:10Z"
+        },
+        {
+          "sha": "9709a8dbb7607a976334d0433687dc1ddaa56de5",
+          "author": "Mohammed Ezzat",
+          "date": "2016-03-16T14:14:44Z"
+        },
+        {
+          "sha": "8aeacefda0459f28a1f18e29c0ec4a5000a8aff4",
+          "author": "scottyab",
+          "date": "2016-04-01T15:04:36Z"
+        },
+        {
+          "sha": "8970ccf943e064e6fedd929279f0d804b43e6ff2",
+          "author": "andyb129",
+          "date": "2016-07-01T14:40:45Z"
+        },
+        {
+          "sha": "8156ec0fa01ec4a37760f0f49f9aa0497232827a",
+          "author": "scottyab",
+          "date": "2016-07-01T20:13:52Z"
+        },
+        {
+          "sha": "e8c54eca9e643d6ec93064ed4a15254a14685981",
+          "author": "stealthcopter",
+          "date": "2017-03-24T13:41:16Z"
+        },
+        {
+          "sha": "b09e4cbd78cb1acaadb0bbbd5407163857865e3e",
+          "author": "scottyab",
+          "date": "2017-03-24T14:16:12Z"
+        },
+        {
+          "sha": "94e8c24b687b69b04c1910c22aa224f8e7fd5f3d",
+          "author": "danielkutik",
+          "date": "2019-11-16T02:34:24Z"
+        },
+        {
+          "sha": "7815ef83b8b88b1ef1fab3ea30f4c8d7712dff19",
+          "author": "stealthcopter",
+          "date": "2020-02-03T20:42:40Z"
+        },
+        {
+          "sha": "3163211e242e6310117c5c92dfe4f0c6c7cc18b2",
+          "author": "scottyab",
+          "date": "2021-05-08T14:18:37Z"
+        }
+      ]
+    },
+    {
+      "path": "app/src/main/java/com/scottyab/rootbeer/sample/MainActivity.kt",
+      "touches": 4,
+      "authors": [
+        {
+          "author": "ArtsemKurantsou",
+          "touches": 2
+        },
+        {
+          "author": "scottyab",
+          "touches": 2
+        }
+      ],
+      "changes": [
+        {
+          "sha": "3163211e242e6310117c5c92dfe4f0c6c7cc18b2",
+          "author": "scottyab",
+          "date": "2021-05-08T14:18:37Z"
+        },
+        {
+          "sha": "4423a92931a31cd0b64c3872814b47a79c0fefc3",
+          "author": "ArtsemKurantsou",
+          "date": "2024-08-04T19:40:34Z"
+        },
+        {
+          "sha": "3e41e6aefabf3ab3454fee2daf3495eef28d4bc9",
+          "author": "ArtsemKurantsou",
+          "date": "2024-08-05T18:31:03Z"
+        },
+        {
+          "sha": "52470e427026fda0b134e7680d8301636682deee",
+          "author": "scottyab",
+          "date": "2024-09-12T10:16:21Z"
+        }
+      ]
+    },
+    {
+      "path": "app/src/main/java/com/scottyab/rootbeer/sample/RootItemResult.kt",
+      "touches": 2,
+      "authors": [
+        {
+          "author": "scottyab",
+          "touches": 2
+        }
+      ],
+      "changes": [
+        {
+          "sha": "3163211e242e6310117c5c92dfe4f0c6c7cc18b2",
+          "author": "scottyab",
+          "date": "2021-05-08T14:18:37Z"
+        },
+        {
+          "sha": "52470e427026fda0b134e7680d8301636682deee",
+          "author": "scottyab",
+          "date": "2024-09-12T10:16:21Z"
+        }
+      ]
+    },
+    {
+      "path": "app/src/main/java/com/scottyab/rootbeer/sample/RootSampleApp.kt",
+      "touches": 3,
+      "authors": [
+        {
+          "author": "scottyab",
+          "touches": 2
+        },
+        {
+          "author": "ArtsemKurantsou",
+          "touches": 1
+        }
+      ],
+      "changes": [
+        {
+          "sha": "3163211e242e6310117c5c92dfe4f0c6c7cc18b2",
+          "author": "scottyab",
+          "date": "2021-05-08T14:18:37Z"
+        },
+        {
+          "sha": "4423a92931a31cd0b64c3872814b47a79c0fefc3",
+          "author": "ArtsemKurantsou",
+          "date": "2024-08-04T19:40:34Z"
+        },
+        {
+          "sha": "52470e427026fda0b134e7680d8301636682deee",
+          "author": "scottyab",
+          "date": "2024-09-12T10:16:21Z"
+        }
+      ]
+    },
+    {
+      "path": "app/src/main/java/com/scottyab/rootbeer/sample/TextViewFont.java",
+      "touches": 7,
+      "authors": [
+        {
+          "author": "danielkutik",
+          "touches": 2
+        },
+        {
+          "author": "stealthcopter",
+          "touches": 2
+        },
+        {
+          "author": "andyb129",
+          "touches": 1
+        },
+        {
+          "author": "friederbluemle",
+          "touches": 1
+        },
+        {
+          "author": "scottyab",
+          "touches": 1
+        }
+      ],
+      "changes": [
+        {
+          "sha": "8970ccf943e064e6fedd929279f0d804b43e6ff2",
+          "author": "andyb129",
+          "date": "2016-07-01T14:40:45Z"
+        },
+        {
+          "sha": "4d3da918778eabdf01fd0fbebefcb04edc4aca32",
+          "author": "friederbluemle",
+          "date": "2017-05-11T16:55:33Z"
+        },
+        {
+          "sha": "c3715fc19d306dfce8b4a1a436c3839061148110",
+          "author": "stealthcopter",
+          "date": "2017-05-12T21:31:11Z"
+        },
+        {
+          "sha": "94e8c24b687b69b04c1910c22aa224f8e7fd5f3d",
+          "author": "danielkutik",
+          "date": "2019-11-16T02:34:24Z"
+        },
+        {
+          "sha": "1ea425289fbd480147be2e584def97b2f89497ad",
+          "author": "danielkutik",
+          "date": "2019-11-16T02:39:54Z"
+        },
+        {
+          "sha": "7815ef83b8b88b1ef1fab3ea30f4c8d7712dff19",
+          "author": "stealthcopter",
+          "date": "2020-02-03T20:42:40Z"
+        },
+        {
+          "sha": "3163211e242e6310117c5c92dfe4f0c6c7cc18b2",
+          "author": "scottyab",
+          "date": "2021-05-08T14:18:37Z"
+        }
+      ]
+    },
+    {
+      "path": "app/src/main/java/com/scottyab/rootbeer/sample/extensions/ViewExtensions.kt",
+      "touches": 2,
+      "authors": [
+        {
+          "author": "scottyab",
+          "touches": 2
+        }
+      ],
+      "changes": [
+        {
+          "sha": "3163211e242e6310117c5c92dfe4f0c6c7cc18b2",
+          "author": "scottyab",
+          "date": "2021-05-08T14:18:37Z"
+        },
+        {
+          "sha": "52470e427026fda0b134e7680d8301636682deee",
+          "author": "scottyab",
+          "date": "2024-09-12T10:16:21Z"
+        }
+      ]
+    },
+    {
+      "path": "app/src/main/java/com/scottyab/rootbeer/sample/ui/ResultIconView.kt",
+      "touches": 2,
+      "authors": [
+        {
+          "author": "scottyab",
+          "touches": 2
+        }
+      ],
+      "changes": [
+        {
+          "sha": "3163211e242e6310117c5c92dfe4f0c6c7cc18b2",
+          "author": "scottyab",
+          "date": "2021-05-08T14:18:37Z"
+        },
+        {
+          "sha": "52470e427026fda0b134e7680d8301636682deee",
+          "author": "scottyab",
+          "date": "2024-09-12T10:16:21Z"
+        }
+      ]
+    },
+    {
+      "path": "app/src/main/java/com/scottyab/rootbeer/sample/ui/RootItemAdapter.kt",
+      "touches": 3,
+      "authors": [
+        {
+          "author": "scottyab",
+          "touches": 2
+        },
+        {
+          "author": "ArtsemKurantsou",
+          "touches": 1
+        }
+      ],
+      "changes": [
+        {
+          "sha": "3163211e242e6310117c5c92dfe4f0c6c7cc18b2",
+          "author": "scottyab",
+          "date": "2021-05-08T14:18:37Z"
+        },
+        {
+          "sha": "4423a92931a31cd0b64c3872814b47a79c0fefc3",
+          "author": "ArtsemKurantsou",
+          "date": "2024-08-04T19:40:34Z"
+        },
+        {
+          "sha": "52470e427026fda0b134e7680d8301636682deee",
+          "author": "scottyab",
+          "date": "2024-09-12T10:16:21Z"
+        }
+      ]
+    },
+    {
+      "path": "app/src/main/java/com/scottyab/rootbeer/sample/ui/RootedResultTextView.kt",
+      "touches": 2,
+      "authors": [
+        {
+          "author": "scottyab",
+          "touches": 2
+        }
+      ],
+      "changes": [
+        {
+          "sha": "3163211e242e6310117c5c92dfe4f0c6c7cc18b2",
+          "author": "scottyab",
+          "date": "2021-05-08T14:18:37Z"
+        },
+        {
+          "sha": "52470e427026fda0b134e7680d8301636682deee",
+          "author": "scottyab",
+          "date": "2024-09-12T10:16:21Z"
+        }
+      ]
+    },
+    {
+      "path": "app/src/main/java/com/scottyab/rootbeer/sample/ui/ScopedActivity.kt",
+      "touches": 2,
+      "authors": [
+        {
+          "author": "scottyab",
+          "touches": 2
+        }
+      ],
+      "changes": [
+        {
+          "sha": "3163211e242e6310117c5c92dfe4f0c6c7cc18b2",
+          "author": "scottyab",
+          "date": "2021-05-08T14:18:37Z"
+        },
+        {
+          "sha": "52470e427026fda0b134e7680d8301636682deee",
+          "author": "scottyab",
+          "date": "2024-09-12T10:16:21Z"
+        }
+      ]
+    },
+    {
+      "path": "app/src/main/java/com/scottyab/rootchecker/Const.java",
+      "touches": 1,
+      "authors": [
+        {
+          "author": "stealthcopter",
+          "touches": 1
+        }
+      ],
+      "changes": [
+        {
+          "sha": "bb1d88bbf5565c9836759be9d9b04ffe62ff4e8b",
+          "author": "stealthcopter",
+          "date": "2015-06-26T14:32:45Z"
+        }
+      ]
+    },
+    {
+      "path": "app/src/main/java/com/scottyab/rootchecker/MainActivity.java",
+      "touches": 4,
+      "authors": [
+        {
+          "author": "scottyab",
+          "touches": 2
+        },
+        {
+          "author": "stealthcopter",
+          "touches": 2
+        }
+      ],
+      "changes": [
+        {
+          "sha": "08453399a94b7ba050345332190e89470162658c",
+          "author": "scottyab",
+          "date": "2015-06-19T09:05:10Z"
+        },
+        {
+          "sha": "f1592567a2d5c8a8f1c1fe8921e23a630b7d86c6",
+          "author": "stealthcopter",
+          "date": "2015-06-19T10:09:22Z"
+        },
+        {
+          "sha": "fdb18e5e2e15c0a7a5cb5ab6d95a569e702c3253",
+          "author": "scottyab",
+          "date": "2015-06-19T17:21:37Z"
+        },
+        {
+          "sha": "bb1d88bbf5565c9836759be9d9b04ffe62ff4e8b",
+          "author": "stealthcopter",
+          "date": "2015-06-26T14:32:45Z"
+        }
+      ]
+    },
+    {
+      "path": "app/src/main/java/com/scottyab/rootchecker/RootCheck.java",
+      "touches": 6,
+      "authors": [
+        {
+          "author": "scottyab",
+          "touches": 3
+        },
+        {
+          "author": "stealthcopter",
+          "touches": 3
+        }
+      ],
+      "changes": [
+        {
+          "sha": "08453399a94b7ba050345332190e89470162658c",
+          "author": "scottyab",
+          "date": "2015-06-19T09:05:10Z"
+        },
+        {
+          "sha": "f1592567a2d5c8a8f1c1fe8921e23a630b7d86c6",
+          "author": "stealthcopter",
+          "date": "2015-06-19T10:09:22Z"
+        },
+        {
+          "sha": "2451f96910adb976392c74b42e9fca40b842c60b",
+          "author": "scottyab",
+          "date": "2015-06-19T17:20:07Z"
+        },
+        {
+          "sha": "fdb18e5e2e15c0a7a5cb5ab6d95a569e702c3253",
+          "author": "scottyab",
+          "date": "2015-06-19T17:21:37Z"
+        },
+        {
+          "sha": "bb1d88bbf5565c9836759be9d9b04ffe62ff4e8b",
+          "author": "stealthcopter",
+          "date": "2015-06-26T14:32:45Z"
+        },
+        {
+          "sha": "bd5268a74beb21f2a98c3f59ea717dcd35680349",
+          "author": "stealthcopter",
+          "date": "2015-06-26T14:41:45Z"
+        }
+      ]
+    },
+    {
+      "path": "app/src/main/java/com/scottyab/rootchecker/RootCheckNative.java",
+      "touches": 3,
+      "authors": [
+        {
+          "author": "stealthcopter",
+          "touches": 2
+        },
+        {
+          "author": "scottyab",
+          "touches": 1
+        }
+      ],
+      "changes": [
+        {
+          "sha": "f1592567a2d5c8a8f1c1fe8921e23a630b7d86c6",
+          "author": "stealthcopter",
+          "date": "2015-06-19T10:09:22Z"
+        },
+        {
+          "sha": "81e37803dccfd41189847fb9c8e682031f642305",
+          "author": "stealthcopter",
+          "date": "2015-06-19T11:06:02Z"
+        },
+        {
+          "sha": "fdb18e5e2e15c0a7a5cb5ab6d95a569e702c3253",
+          "author": "scottyab",
+          "date": "2015-06-19T17:21:37Z"
+        }
+      ]
+    },
+    {
+      "path": "app/src/main/java/com/scottyab/rootchecker/util/QLog.java",
+      "touches": 1,
+      "authors": [
+        {
+          "author": "scottyab",
+          "touches": 1
+        }
+      ],
+      "changes": [
+        {
+          "sha": "08453399a94b7ba050345332190e89470162658c",
+          "author": "scottyab",
+          "date": "2015-06-19T09:05:10Z"
+        }
+      ]
+    },
+    {
+      "path": "rootbeerlib/jni/toolChecker.cpp",
+      "touches": 9,
+      "authors": [
+        {
+          "author": "scottyab",
+          "touches": 4
+        },
+        {
+          "author": "stealthcopter",
+          "touches": 4
+        },
+        {
+          "author": "aippisch",
+          "touches": 1
+        }
+      ],
+      "changes": [
+        {
+          "sha": "d246945d2575623ca137fcc0a4ef1eb8f3c68fab",
+          "author": "scottyab",
+          "date": "2015-06-26T15:50:40Z"
+        },
+        {
+          "sha": "e026001047d79e95c1d2818e3ad93937ee1a982c",
+          "author": "stealthcopter",
+          "date": "2015-06-26T16:10:45Z"
+        },
+        {
+          "sha": "d12981d9bf2714a463e5ca1b2cf28a5920ea58ac",
+          "author": "scottyab",
+          "date": "2015-06-30T12:58:19Z"
+        },
+        {
+          "sha": "12b238f7c8311c8116ef1b9b1b1fdc14f8067bbc",
+          "author": "stealthcopter",
+          "date": "2015-06-30T13:04:08Z"
+        },
+        {
+          "sha": "e9511c315e1ea80769b734483a5e64e133c5a2ee",
+          "author": "stealthcopter",
+          "date": "2015-06-30T14:14:02Z"
+        },
+        {
+          "sha": "2b4d828943c17d66a1f04cb02b2da0930ad5192d",
+          "author": "scottyab",
+          "date": "2015-06-30T14:14:20Z"
+        },
+        {
+          "sha": "2920f344669151ddcc7ef624d1c1ecc0ad878ba5",
+          "author": "stealthcopter",
+          "date": "2015-06-30T14:36:54Z"
+        },
+        {
+          "sha": "8cb5e85b11a596ca68e2e099a51780c277ca4bfc",
+          "author": "scottyab",
+          "date": "2015-06-30T14:45:20Z"
+        },
+        {
+          "sha": "43613249a26d72049d8244014e912d5d5818edaa",
+          "author": "aippisch",
+          "date": "2016-09-16T14:04:45Z"
+        }
+      ]
+    },
+    {
+      "path": "rootbeerlib/jni/toolChecker.h",
+      "touches": 6,
+      "authors": [
+        {
+          "author": "scottyab",
+          "touches": 3
+        },
+        {
+          "author": "stealthcopter",
+          "touches": 3
+        }
+      ],
+      "changes": [
+        {
+          "sha": "d246945d2575623ca137fcc0a4ef1eb8f3c68fab",
+          "author": "scottyab",
+          "date": "2015-06-26T15:50:40Z"
+        },
+        {
+          "sha": "e026001047d79e95c1d2818e3ad93937ee1a982c",
+          "author": "stealthcopter",
+          "date": "2015-06-26T16:10:45Z"
+        },
+        {
+          "sha": "e9511c315e1ea80769b734483a5e64e133c5a2ee",
+          "author": "stealthcopter",
+          "date": "2015-06-30T14:14:02Z"
+        },
+        {
+          "sha": "2b4d828943c17d66a1f04cb02b2da0930ad5192d",
+          "author": "scottyab",
+          "date": "2015-06-30T14:14:20Z"
+        },
+        {
+          "sha": "2920f344669151ddcc7ef624d1c1ecc0ad878ba5",
+          "author": "stealthcopter",
+          "date": "2015-06-30T14:36:54Z"
+        },
+        {
+          "sha": "8cb5e85b11a596ca68e2e099a51780c277ca4bfc",
+          "author": "scottyab",
+          "date": "2015-06-30T14:45:20Z"
+        }
+      ]
+    },
+    {
+      "path": "rootbeerlib/src/androidTest/java/com/scottyab/rootbeer/ApplicationTest.java",
+      "touches": 6,
+      "authors": [
+        {
+          "author": "danielkutik",
+          "touches": 2
+        },
+        {
+          "author": "stealthcopter",
+          "touches": 2
+        },
+        {
+          "author": "friederbluemle",
+          "touches": 1
+        },
+        {
+          "author": "scottyab",
+          "touches": 1
+        }
+      ],
+      "changes": [
+        {
+          "sha": "d246945d2575623ca137fcc0a4ef1eb8f3c68fab",
+          "author": "scottyab",
+          "date": "2015-06-26T15:50:40Z"
+        },
+        {
+          "sha": "f2ea0bd158f20de2810f98228aea6c6d061ff282",
+          "author": "friederbluemle",
+          "date": "2017-05-11T16:41:00Z"
+        },
+        {
+          "sha": "c3715fc19d306dfce8b4a1a436c3839061148110",
+          "author": "stealthcopter",
+          "date": "2017-05-12T21:31:11Z"
+        },
+        {
+          "sha": "94e8c24b687b69b04c1910c22aa224f8e7fd5f3d",
+          "author": "danielkutik",
+          "date": "2019-11-16T02:34:24Z"
+        },
+        {
+          "sha": "d1513cad35471a37772e443d732cdd71652ec2b9",
+          "author": "danielkutik",
+          "date": "2019-11-16T02:45:47Z"
+        },
+        {
+          "sha": "7815ef83b8b88b1ef1fab3ea30f4c8d7712dff19",
+          "author": "stealthcopter",
+          "date": "2020-02-03T20:42:40Z"
+        }
+      ]
+    },
+    {
+      "path": "rootbeerlib/src/main/cpp/toolChecker.cpp",
+      "touches": 1,
+      "authors": [
+        {
+          "author": "scottyab",
+          "touches": 1
+        }
+      ],
+      "changes": [
+        {
+          "sha": "2fae04b08146f14f688f85bbe6113ee340a3c337",
+          "author": "scottyab",
+          "date": "2021-05-22T13:42:21Z"
+        }
+      ]
+    },
+    {
+      "path": "rootbeerlib/src/main/cpp/toolChecker.h",
+      "touches": 1,
+      "authors": [
+        {
+          "author": "scottyab",
+          "touches": 1
+        }
+      ],
+      "changes": [
+        {
+          "sha": "2fae04b08146f14f688f85bbe6113ee340a3c337",
+          "author": "scottyab",
+          "date": "2021-05-22T13:42:21Z"
+        }
+      ]
+    },
+    {
+      "path": "rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java",
+      "touches": 25,
+      "authors": [
+        {
+          "author": "scottyab",
+          "touches": 8
+        },
+        {
+          "author": "stealthcopter",
+          "touches": 7
+        },
+        {
+          "author": "p2paltvnv",
+          "touches": 3
+        },
+        {
+          "author": "mat",
+          "touches": 2
+        },
+        {
+          "author": "BlizzedRu",
+          "touches": 1
+        },
+        {
+          "author": "danielkutik",
+          "touches": 1
+        },
+        {
+          "author": "Fi5t",
+          "touches": 1
+        },
+        {
+          "author": "matoilic",
+          "touches": 1
+        },
+        {
+          "author": "Mohammed Ezzat",
+          "touches": 1
+        }
+      ],
+      "changes": [
+        {
+          "sha": "d246945d2575623ca137fcc0a4ef1eb8f3c68fab",
+          "author": "scottyab",
+          "date": "2015-06-26T15:50:40Z"
+        },
+        {
+          "sha": "ec2427eb932e87ee0397d7a471997eb2fbb0b9fd",
+          "author": "scottyab",
+          "date": "2015-06-29T13:06:59Z"
+        },
+        {
+          "sha": "13ad8c722a871ebeaf6f0da5b3d8067b4be94d64",
+          "author": "stealthcopter",
+          "date": "2015-06-30T13:40:46Z"
+        },
+        {
+          "sha": "2b4d828943c17d66a1f04cb02b2da0930ad5192d",
+          "author": "scottyab",
+          "date": "2015-06-30T14:14:20Z"
+        },
+        {
+          "sha": "e1741cf2dcd0653649df59001601e41180062c2e",
+          "author": "scottyab",
+          "date": "2015-06-30T14:59:48Z"
+        },
+        {
+          "sha": "8ea9eb2e5ee6a9319afb97769bfd5b97c57d6414",
+          "author": "stealthcopter",
+          "date": "2015-06-30T15:06:34Z"
+        },
+        {
+          "sha": "3cb4504b4013738a03485e1f8541c0b17eab102c",
+          "author": "scottyab",
+          "date": "2015-09-16T12:13:36Z"
+        },
+        {
+          "sha": "bb880410733bca57af216d56f2e2c8aec4626907",
+          "author": "Mohammed Ezzat",
+          "date": "2016-03-15T13:13:43Z"
+        },
+        {
+          "sha": "a649adb07c171387fbe20e468886c7a36ebfacd6",
+          "author": "scottyab",
+          "date": "2016-03-16T14:05:46Z"
+        },
+        {
+          "sha": "22c503f888ca7c1fea110f310593b2e60d333797",
+          "author": "stealthcopter",
+          "date": "2017-03-24T13:30:47Z"
+        },
+        {
+          "sha": "b09e4cbd78cb1acaadb0bbbd5407163857865e3e",
+          "author": "scottyab",
+          "date": "2017-03-24T14:16:12Z"
+        },
+        {
+          "sha": "6ff8b25974c991ab55948fbe0664ab423f3a0c7b",
+          "author": "p2paltvnv",
+          "date": "2018-03-16T11:36:53Z"
+        },
+        {
+          "sha": "6b0362df982ca091d8ddb19d6055e5427868bb09",
+          "author": "p2paltvnv",
+          "date": "2018-03-16T12:02:21Z"
+        },
+        {
+          "sha": "bfba45649d5b94d4843443dcbddaab40c88132e6",
+          "author": "p2paltvnv",
+          "date": "2018-03-16T16:42:19Z"
+        },
+        {
+          "sha": "1a87fc43254349a7bfe72a8e57e8aa2662f07130",
+          "author": "stealthcopter",
+          "date": "2018-03-20T17:57:33Z"
+        },
+        {
+          "sha": "8b985d927ff18acc804440a84c6d2b5efee0c6d9",
+          "author": "stealthcopter",
+          "date": "2019-03-14T12:24:58Z"
+        },
+        {
+          "sha": "59c387ef07075c5919f95569cbcd513c8a8f7c4a",
+          "author": "BlizzedRu",
+          "date": "2019-12-09T10:32:18Z"
+        },
+        {
+          "sha": "d1b40829bf88d238dc0f83214c4208c7eef407ad",
+          "author": "mat",
+          "date": "2020-01-28T14:06:12Z"
+        },
+        {
+          "sha": "6c29d4021ce9f54f12a417585f34b466797c0fb0",
+          "author": "stealthcopter",
+          "date": "2020-01-30T13:05:03Z"
+        },
+        {
+          "sha": "4dc3b789a6ef07fe1e50352739f9a41d0df750e1",
+          "author": "mat",
+          "date": "2020-01-30T13:09:02Z"
+        },
+        {
+          "sha": "6d58c00489d5c8f402b7834f7380b4c190a05333",
+          "author": "stealthcopter",
+          "date": "2020-01-30T16:17:56Z"
+        },
+        {
+          "sha": "a00e3f7b65dfb8b9de43c2f265dccdee989bd790",
+          "author": "danielkutik",
+          "date": "2020-01-31T00:54:28Z"
+        },
+        {
+          "sha": "b71502a78055e12227f83359cda7d51874e312de",
+          "author": "Fi5t",
+          "date": "2020-07-15T20:47:49Z"
+        },
+        {
+          "sha": "3163211e242e6310117c5c92dfe4f0c6c7cc18b2",
+          "author": "scottyab",
+          "date": "2021-05-08T14:18:37Z"
+        },
+        {
+          "sha": "cc996259929da1e24bd0a7d017c818fd91910d17",
+          "author": "matoilic",
+          "date": "2026-03-05T18:02:12Z"
+        }
+      ]
+    },
+    {
+      "path": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java",
+      "touches": 53,
+      "authors": [
+        {
+          "author": "stealthcopter",
+          "touches": 25
+        },
+        {
+          "author": "scottyab",
+          "touches": 11
+        },
+        {
+          "author": "mat",
+          "touches": 4
+        },
+        {
+          "author": "p2paltvnv",
+          "touches": 3
+        },
+        {
+          "author": "awaseem",
+          "touches": 1
+        },
+        {
+          "author": "BIOCATCH\\Leon.Karabchevsky",
+          "touches": 1
+        },
+        {
+          "author": "BlizzedRu",
+          "touches": 1
+        },
+        {
+          "author": "danielkutik",
+          "touches": 1
+        },
+        {
+          "author": "friederbluemle",
+          "touches": 1
+        },
+        {
+          "author": "leocadiotine",
+          "touches": 1
+        },
+        {
+          "author": "LeonKarabchevsky",
+          "touches": 1
+        },
+        {
+          "author": "Mohammed Ezzat",
+          "touches": 1
+        },
+        {
+          "author": "namouchislim",
+          "touches": 1
+        },
+        {
+          "author": "vyas-n",
+          "touches": 1
+        }
+      ],
+      "changes": [
+        {
+          "sha": "d246945d2575623ca137fcc0a4ef1eb8f3c68fab",
+          "author": "scottyab",
+          "date": "2015-06-26T15:50:40Z"
+        },
+        {
+          "sha": "ec2427eb932e87ee0397d7a471997eb2fbb0b9fd",
+          "author": "scottyab",
+          "date": "2015-06-29T13:06:59Z"
+        },
+        {
+          "sha": "e9511c315e1ea80769b734483a5e64e133c5a2ee",
+          "author": "stealthcopter",
+          "date": "2015-06-30T14:14:02Z"
+        },
+        {
+          "sha": "4926749156fbd8e1d48ec713aaf1269e84e8b6b5",
+          "author": "scottyab",
+          "date": "2015-06-30T14:14:08Z"
+        },
+        {
+          "sha": "2b4d828943c17d66a1f04cb02b2da0930ad5192d",
+          "author": "scottyab",
+          "date": "2015-06-30T14:14:20Z"
+        },
+        {
+          "sha": "2920f344669151ddcc7ef624d1c1ecc0ad878ba5",
+          "author": "stealthcopter",
+          "date": "2015-06-30T14:36:54Z"
+        },
+        {
+          "sha": "9bb704339eddab021e2c54e1df2aea72a8950ebb",
+          "author": "scottyab",
+          "date": "2015-06-30T14:45:12Z"
+        },
+        {
+          "sha": "8cb5e85b11a596ca68e2e099a51780c277ca4bfc",
+          "author": "scottyab",
+          "date": "2015-06-30T14:45:20Z"
+        },
+        {
+          "sha": "322560d3be1bb8cfe27d1b66175813f6f21b46bb",
+          "author": "stealthcopter",
+          "date": "2015-12-21T20:43:55Z"
+        },
+        {
+          "sha": "08f3cdd79168aafeeadff5b14bc329f140af2bf8",
+          "author": "stealthcopter",
+          "date": "2015-12-21T20:44:58Z"
+        },
+        {
+          "sha": "096cee7f72635574fb5f07a97d15590e4eabaec3",
+          "author": "scottyab",
+          "date": "2015-12-22T09:06:26Z"
+        },
+        {
+          "sha": "f159dd1b19a022ff8e07848b56fd49582cb6cf7d",
+          "author": "stealthcopter",
+          "date": "2015-12-22T10:11:09Z"
+        },
+        {
+          "sha": "74f3a20e365567dfe881d83fae6ec354cabc9c9b",
+          "author": "stealthcopter",
+          "date": "2015-12-22T10:17:02Z"
+        },
+        {
+          "sha": "0d0e576029c4120050378f48ac3d4d513146139f",
+          "author": "scottyab",
+          "date": "2015-12-30T16:22:10Z"
+        },
+        {
+          "sha": "bb880410733bca57af216d56f2e2c8aec4626907",
+          "author": "Mohammed Ezzat",
+          "date": "2016-03-15T13:13:43Z"
+        },
+        {
+          "sha": "a649adb07c171387fbe20e468886c7a36ebfacd6",
+          "author": "scottyab",
+          "date": "2016-03-16T14:05:46Z"
+        },
+        {
+          "sha": "ed600d02aa5bd2dfc91c3df1987eaf35be5f2a85",
+          "author": "stealthcopter",
+          "date": "2016-04-18T16:36:03Z"
+        },
+        {
+          "sha": "7bb978d2c6e2a4c9d30589b835f7799e3e9ba47f",
+          "author": "scottyab",
+          "date": "2016-05-17T15:20:15Z"
+        },
+        {
+          "sha": "4b04449da08a200e04cc5d0d341ffc06f8e251ab",
+          "author": "leocadiotine",
+          "date": "2016-09-14T21:25:21Z"
+        },
+        {
+          "sha": "55a4c8f28bf53e479a485fb9ba44279144f6526e",
+          "author": "stealthcopter",
+          "date": "2017-02-15T12:53:36Z"
+        },
+        {
+          "sha": "82fb875698341f468a5a067cc533a3479b35baf4",
+          "author": "stealthcopter",
+          "date": "2017-03-13T22:05:11Z"
+        },
+        {
+          "sha": "51151efbd9a53a88a01425f02bc46f55156cbda2",
+          "author": "stealthcopter",
+          "date": "2017-03-24T13:31:19Z"
+        },
+        {
+          "sha": "b09e4cbd78cb1acaadb0bbbd5407163857865e3e",
+          "author": "scottyab",
+          "date": "2017-03-24T14:16:12Z"
+        },
+        {
+          "sha": "91e0a1137bb78c1e33e209ca0cd3f8946f8682fe",
+          "author": "stealthcopter",
+          "date": "2017-03-24T16:11:58Z"
+        },
+        {
+          "sha": "1d91999332432d5bb85facfb184fa5b525a8667c",
+          "author": "stealthcopter",
+          "date": "2017-03-29T11:18:37Z"
+        },
+        {
+          "sha": "68943207c5de1bea38b46b073fce9af595a3c6cd",
+          "author": "vyas-n",
+          "date": "2017-05-10T19:44:29Z"
+        },
+        {
+          "sha": "aad7a2b1754a1aeefa2101688c24c2918fd257ef",
+          "author": "stealthcopter",
+          "date": "2017-05-12T21:21:12Z"
+        },
+        {
+          "sha": "65c7647ffbbe013c11e5862b7ab52307ca6d5dfe",
+          "author": "BIOCATCH\\Leon.Karabchevsky",
+          "date": "2017-06-07T07:53:52Z"
+        },
+        {
+          "sha": "797d3950442d64836fffa78df03ffdf963f74a5b",
+          "author": "LeonKarabchevsky",
+          "date": "2017-06-11T14:34:20Z"
+        },
+        {
+          "sha": "4151dc37a82a28da94ee4bfed5fb679820d7233a",
+          "author": "awaseem",
+          "date": "2017-08-11T15:34:54Z"
+        },
+        {
+          "sha": "0f9c169454010de9080427d645f491867856e376",
+          "author": "friederbluemle",
+          "date": "2017-08-19T16:20:33Z"
+        },
+        {
+          "sha": "476f81fd38954a9452886c1dc6401db688aaf871",
+          "author": "stealthcopter",
+          "date": "2017-09-29T08:23:05Z"
+        },
+        {
+          "sha": "1853c45fc9d72160eb855613a2c906f1186e8a7f",
+          "author": "p2paltvnv",
+          "date": "2018-03-16T12:14:23Z"
+        },
+        {
+          "sha": "bfba45649d5b94d4843443dcbddaab40c88132e6",
+          "author": "p2paltvnv",
+          "date": "2018-03-16T16:42:19Z"
+        },
+        {
+          "sha": "d3a3cf91bc4f60da7a07336b9ea33e9ae25fa9a6",
+          "author": "p2paltvnv",
+          "date": "2018-03-16T16:49:07Z"
+        },
+        {
+          "sha": "1a87fc43254349a7bfe72a8e57e8aa2662f07130",
+          "author": "stealthcopter",
+          "date": "2018-03-20T17:57:33Z"
+        },
+        {
+          "sha": "8019212fccc48c618f7dd335ee909e9717cd7385",
+          "author": "stealthcopter",
+          "date": "2018-05-11T10:59:44Z"
+        },
+        {
+          "sha": "77919fc8cb4683bc218af4d068cb68d1267d8461",
+          "author": "stealthcopter",
+          "date": "2018-05-11T11:04:28Z"
+        },
+        {
+          "sha": "eff3329618c9b0ad1b7f782383be323183dc665a",
+          "author": "stealthcopter",
+          "date": "2018-05-11T12:00:38Z"
+        },
+        {
+          "sha": "7419587c693ce2e6758a71528538b7c989bd9db9",
+          "author": "stealthcopter",
+          "date": "2018-05-11T12:00:38Z"
+        },
+        {
+          "sha": "6d1e100ae937d1180a591792ff52c5446a302023",
+          "author": "stealthcopter",
+          "date": "2018-06-14T15:53:38Z"
+        },
+        {
+          "sha": "8b985d927ff18acc804440a84c6d2b5efee0c6d9",
+          "author": "stealthcopter",
+          "date": "2019-03-14T12:24:58Z"
+        },
+        {
+          "sha": "59c387ef07075c5919f95569cbcd513c8a8f7c4a",
+          "author": "BlizzedRu",
+          "date": "2019-12-09T10:32:18Z"
+        },
+        {
+          "sha": "0ff04d397ee8f7d336dcc29c5717d996552f5f2c",
+          "author": "mat",
+          "date": "2020-01-28T12:41:49Z"
+        },
+        {
+          "sha": "b8986907f154b243184862a3766a4c6c7b3a4271",
+          "author": "mat",
+          "date": "2020-01-28T13:03:18Z"
+        },
+        {
+          "sha": "d1b40829bf88d238dc0f83214c4208c7eef407ad",
+          "author": "mat",
+          "date": "2020-01-28T14:06:12Z"
+        },
+        {
+          "sha": "6c29d4021ce9f54f12a417585f34b466797c0fb0",
+          "author": "stealthcopter",
+          "date": "2020-01-30T13:05:03Z"
+        },
+        {
+          "sha": "53b32c3371fb5cdcf2f1dba3620cfc4fa95b0ffc",
+          "author": "stealthcopter",
+          "date": "2020-01-30T13:05:20Z"
+        },
+        {
+          "sha": "a00e3f7b65dfb8b9de43c2f265dccdee989bd790",
+          "author": "danielkutik",
+          "date": "2020-01-31T00:54:28Z"
+        },
+        {
+          "sha": "89cd69abb034c007a4ee8e3be7baae7f7b5de37e",
+          "author": "mat",
+          "date": "2020-02-07T09:43:09Z"
+        },
+        {
+          "sha": "c7ab1a6203f44ba19aea07f37681ae34e7a66204",
+          "author": "stealthcopter",
+          "date": "2020-02-07T14:44:11Z"
+        },
+        {
+          "sha": "bb43b749ed81657ee8a2bdcfe0770e4499966a36",
+          "author": "stealthcopter",
+          "date": "2020-07-21T13:10:44Z"
+        },
+        {
+          "sha": "f9ec6c9ab1e6ee1ff1274f6bfe3aa1ba7f4f68f1",
+          "author": "namouchislim",
+          "date": "2020-07-21T13:19:44Z"
+        }
+      ]
+    },
+    {
+      "path": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeerNative.java",
+      "touches": 10,
+      "authors": [
+        {
+          "author": "stealthcopter",
+          "touches": 6
+        },
+        {
+          "author": "scottyab",
+          "touches": 4
+        }
+      ],
+      "changes": [
+        {
+          "sha": "d246945d2575623ca137fcc0a4ef1eb8f3c68fab",
+          "author": "scottyab",
+          "date": "2015-06-26T15:50:40Z"
+        },
+        {
+          "sha": "13187afc81827b88c2996dd900a45ccb0eef6132",
+          "author": "stealthcopter",
+          "date": "2015-06-26T15:57:05Z"
+        },
+        {
+          "sha": "e9511c315e1ea80769b734483a5e64e133c5a2ee",
+          "author": "stealthcopter",
+          "date": "2015-06-30T14:14:02Z"
+        },
+        {
+          "sha": "2b4d828943c17d66a1f04cb02b2da0930ad5192d",
+          "author": "scottyab",
+          "date": "2015-06-30T14:14:20Z"
+        },
+        {
+          "sha": "2920f344669151ddcc7ef624d1c1ecc0ad878ba5",
+          "author": "stealthcopter",
+          "date": "2015-06-30T14:36:54Z"
+        },
+        {
+          "sha": "8cb5e85b11a596ca68e2e099a51780c277ca4bfc",
+          "author": "scottyab",
+          "date": "2015-06-30T14:45:20Z"
+        },
+        {
+          "sha": "1d91999332432d5bb85facfb184fa5b525a8667c",
+          "author": "stealthcopter",
+          "date": "2017-03-29T11:18:37Z"
+        },
+        {
+          "sha": "8b985d927ff18acc804440a84c6d2b5efee0c6d9",
+          "author": "stealthcopter",
+          "date": "2019-03-14T12:24:58Z"
+        },
+        {
+          "sha": "3163211e242e6310117c5c92dfe4f0c6c7cc18b2",
+          "author": "scottyab",
+          "date": "2021-05-08T14:18:37Z"
+        },
+        {
+          "sha": "4adecf81fb4bddd831f6c12cf7dcec80b012a6c5",
+          "author": "stealthcopter",
+          "date": "2021-05-24T07:35:11Z"
+        }
+      ]
+    },
+    {
+      "path": "rootbeerlib/src/main/java/com/scottyab/rootbeer/util/QLog.java",
+      "touches": 12,
+      "authors": [
+        {
+          "author": "stealthcopter",
+          "touches": 5
+        },
+        {
+          "author": "scottyab",
+          "touches": 3
+        },
+        {
+          "author": "friederbluemle",
+          "touches": 2
+        },
+        {
+          "author": "mat",
+          "touches": 1
+        },
+        {
+          "author": "Mohammed Ezzat",
+          "touches": 1
+        }
+      ],
+      "changes": [
+        {
+          "sha": "d246945d2575623ca137fcc0a4ef1eb8f3c68fab",
+          "author": "scottyab",
+          "date": "2015-06-26T15:50:40Z"
+        },
+        {
+          "sha": "8bbd38050b4a84ac1084f5c98197fec822c09c39",
+          "author": "scottyab",
+          "date": "2015-06-26T18:48:49Z"
+        },
+        {
+          "sha": "bb880410733bca57af216d56f2e2c8aec4626907",
+          "author": "Mohammed Ezzat",
+          "date": "2016-03-15T13:13:43Z"
+        },
+        {
+          "sha": "a649adb07c171387fbe20e468886c7a36ebfacd6",
+          "author": "scottyab",
+          "date": "2016-03-16T14:05:46Z"
+        },
+        {
+          "sha": "55a4c8f28bf53e479a485fb9ba44279144f6526e",
+          "author": "stealthcopter",
+          "date": "2017-02-15T12:53:36Z"
+        },
+        {
+          "sha": "f2ea0bd158f20de2810f98228aea6c6d061ff282",
+          "author": "friederbluemle",
+          "date": "2017-05-11T16:41:00Z"
+        },
+        {
+          "sha": "c3715fc19d306dfce8b4a1a436c3839061148110",
+          "author": "stealthcopter",
+          "date": "2017-05-12T21:31:11Z"
+        },
+        {
+          "sha": "0f9c169454010de9080427d645f491867856e376",
+          "author": "friederbluemle",
+          "date": "2017-08-19T16:20:33Z"
+        },
+        {
+          "sha": "279ab654aeadad80119abf615076b22eb07f2029",
+          "author": "stealthcopter",
+          "date": "2017-10-31T18:57:32Z"
+        },
+        {
+          "sha": "72bf1ce12f2408db8bef259d480335eb1ededfeb",
+          "author": "stealthcopter",
+          "date": "2018-05-11T11:04:52Z"
+        },
+        {
+          "sha": "89cd69abb034c007a4ee8e3be7baae7f7b5de37e",
+          "author": "mat",
+          "date": "2020-02-07T09:43:09Z"
+        },
+        {
+          "sha": "c7ab1a6203f44ba19aea07f37681ae34e7a66204",
+          "author": "stealthcopter",
+          "date": "2020-02-07T14:44:11Z"
+        }
+      ]
+    },
+    {
+      "path": "rootbeerlib/src/main/java/com/scottyab/rootbeer/util/Utils.java",
+      "touches": 6,
+      "authors": [
+        {
+          "author": "scottyab",
+          "touches": 4
+        },
+        {
+          "author": "Mohammed Ezzat",
+          "touches": 1
+        },
+        {
+          "author": "stealthcopter",
+          "touches": 1
+        }
+      ],
+      "changes": [
+        {
+          "sha": "4926749156fbd8e1d48ec713aaf1269e84e8b6b5",
+          "author": "scottyab",
+          "date": "2015-06-30T14:14:08Z"
+        },
+        {
+          "sha": "bb880410733bca57af216d56f2e2c8aec4626907",
+          "author": "Mohammed Ezzat",
+          "date": "2016-03-15T13:13:43Z"
+        },
+        {
+          "sha": "a649adb07c171387fbe20e468886c7a36ebfacd6",
+          "author": "scottyab",
+          "date": "2016-03-16T14:05:46Z"
+        },
+        {
+          "sha": "8b985d927ff18acc804440a84c6d2b5efee0c6d9",
+          "author": "stealthcopter",
+          "date": "2019-03-14T12:24:58Z"
+        },
+        {
+          "sha": "3163211e242e6310117c5c92dfe4f0c6c7cc18b2",
+          "author": "scottyab",
+          "date": "2021-05-08T14:18:37Z"
+        },
+        {
+          "sha": "52470e427026fda0b134e7680d8301636682deee",
+          "author": "scottyab",
+          "date": "2024-09-12T10:16:21Z"
+        }
+      ]
+    },
+    {
+      "path": "rootbeerlib/src/main/jni/toolChecker.cpp",
+      "touches": 5,
+      "authors": [
+        {
+          "author": "stealthcopter",
+          "touches": 4
+        },
+        {
+          "author": "friederbluemle",
+          "touches": 1
+        }
+      ],
+      "changes": [
+        {
+          "sha": "206753334799b7335506ea639443f68937e434fe",
+          "author": "stealthcopter",
+          "date": "2017-03-13T22:35:27Z"
+        },
+        {
+          "sha": "1daad8af2f17955409291ff09bdd1c961b656f63",
+          "author": "stealthcopter",
+          "date": "2017-03-13T22:55:31Z"
+        },
+        {
+          "sha": "cfd9e8325845910f06a6d26f51f39fefd7304d36",
+          "author": "stealthcopter",
+          "date": "2017-03-24T14:49:14Z"
+        },
+        {
+          "sha": "f2ea0bd158f20de2810f98228aea6c6d061ff282",
+          "author": "friederbluemle",
+          "date": "2017-05-11T16:41:00Z"
+        },
+        {
+          "sha": "c3715fc19d306dfce8b4a1a436c3839061148110",
+          "author": "stealthcopter",
+          "date": "2017-05-12T21:31:11Z"
+        }
+      ]
+    },
+    {
+      "path": "rootbeerlib/src/main/jni/toolChecker.h",
+      "touches": 4,
+      "authors": [
+        {
+          "author": "stealthcopter",
+          "touches": 3
+        },
+        {
+          "author": "friederbluemle",
+          "touches": 1
+        }
+      ],
+      "changes": [
+        {
+          "sha": "206753334799b7335506ea639443f68937e434fe",
+          "author": "stealthcopter",
+          "date": "2017-03-13T22:35:27Z"
+        },
+        {
+          "sha": "cfd9e8325845910f06a6d26f51f39fefd7304d36",
+          "author": "stealthcopter",
+          "date": "2017-03-24T14:49:14Z"
+        },
+        {
+          "sha": "f2ea0bd158f20de2810f98228aea6c6d061ff282",
+          "author": "friederbluemle",
+          "date": "2017-05-11T16:41:00Z"
+        },
+        {
+          "sha": "c3715fc19d306dfce8b4a1a436c3839061148110",
+          "author": "stealthcopter",
+          "date": "2017-05-12T21:31:11Z"
+        }
+      ]
+    },
+    {
+      "path": "rootbeerlib/src/test/java/com/scottyab/rootbeer/RootBeerTest.java",
+      "touches": 13,
+      "authors": [
+        {
+          "author": "stealthcopter",
+          "touches": 8
+        },
+        {
+          "author": "danielkutik",
+          "touches": 2
+        },
+        {
+          "author": "mat",
+          "touches": 2
+        },
+        {
+          "author": "scottyab",
+          "touches": 1
+        }
+      ],
+      "changes": [
+        {
+          "sha": "279ab654aeadad80119abf615076b22eb07f2029",
+          "author": "stealthcopter",
+          "date": "2017-10-31T18:57:32Z"
+        },
+        {
+          "sha": "72bf1ce12f2408db8bef259d480335eb1ededfeb",
+          "author": "stealthcopter",
+          "date": "2018-05-11T11:04:52Z"
+        },
+        {
+          "sha": "e820055a226cd2c5cdb427b80f264bb9b1384ccf",
+          "author": "stealthcopter",
+          "date": "2018-05-11T13:16:33Z"
+        },
+        {
+          "sha": "6d1e100ae937d1180a591792ff52c5446a302023",
+          "author": "stealthcopter",
+          "date": "2018-06-14T15:53:38Z"
+        },
+        {
+          "sha": "8b985d927ff18acc804440a84c6d2b5efee0c6d9",
+          "author": "stealthcopter",
+          "date": "2019-03-14T12:24:58Z"
+        },
+        {
+          "sha": "94e8c24b687b69b04c1910c22aa224f8e7fd5f3d",
+          "author": "danielkutik",
+          "date": "2019-11-16T02:34:24Z"
+        },
+        {
+          "sha": "b8986907f154b243184862a3766a4c6c7b3a4271",
+          "author": "mat",
+          "date": "2020-01-28T13:03:18Z"
+        },
+        {
+          "sha": "53b32c3371fb5cdcf2f1dba3620cfc4fa95b0ffc",
+          "author": "stealthcopter",
+          "date": "2020-01-30T13:05:20Z"
+        },
+        {
+          "sha": "94b0dddab9f3fd26ce77f09db64598566eb863c3",
+          "author": "mat",
+          "date": "2020-01-30T16:12:36Z"
+        },
+        {
+          "sha": "a00e3f7b65dfb8b9de43c2f265dccdee989bd790",
+          "author": "danielkutik",
+          "date": "2020-01-31T00:54:28Z"
+        },
+        {
+          "sha": "87f301992a28d6edb1b360d66cb93949ea1bbcfb",
+          "author": "stealthcopter",
+          "date": "2020-02-03T20:42:27Z"
+        },
+        {
+          "sha": "7815ef83b8b88b1ef1fab3ea30f4c8d7712dff19",
+          "author": "stealthcopter",
+          "date": "2020-02-03T20:42:40Z"
+        },
+        {
+          "sha": "3163211e242e6310117c5c92dfe4f0c6c7cc18b2",
+          "author": "scottyab",
+          "date": "2021-05-08T14:18:37Z"
+        }
+      ]
+    }
+  ]
+}

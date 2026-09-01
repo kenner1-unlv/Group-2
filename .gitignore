@@ -1,1 +1,5 @@
 repo_mining/.env
+
+# Python-generated cache files
+__pycache__/
+*.py[cod]
