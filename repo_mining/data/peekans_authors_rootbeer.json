@@ -1,0 +1,982 @@
+[
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java",
+    "author": "matoilic",
+    "date": "2026-03-05T18:02:12Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java",
+    "author": "scottyab",
+    "date": "2021-05-08T14:18:37Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java",
+    "author": "Fi5t",
+    "date": "2020-07-15T20:47:49Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java",
+    "author": "mat",
+    "date": "2020-01-30T13:09:02Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java",
+    "author": "mat",
+    "date": "2020-01-28T14:06:12Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java",
+    "author": "BlizzedRu",
+    "date": "2019-12-09T10:32:18Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java",
+    "author": "stealthcopter",
+    "date": "2019-03-14T12:24:58Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java",
+    "author": "p2paltvnv",
+    "date": "2018-03-16T16:42:19Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java",
+    "author": "p2paltvnv",
+    "date": "2018-03-16T12:02:21Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java",
+    "author": "p2paltvnv",
+    "date": "2018-03-16T11:36:53Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java",
+    "author": "stealthcopter",
+    "date": "2017-03-24T13:30:47Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java",
+    "author": "Mohammed Ezzat",
+    "date": "2016-03-15T13:13:43Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java",
+    "author": "scottyab",
+    "date": "2015-09-16T12:13:36Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java",
+    "author": "scottyab",
+    "date": "2015-06-30T14:59:48Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java",
+    "author": "stealthcopter",
+    "date": "2015-06-30T13:40:46Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java",
+    "author": "scottyab",
+    "date": "2015-06-29T13:06:59Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java",
+    "author": "scottyab",
+    "date": "2015-06-26T15:50:40Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/CheckForRootWorker.kt",
+    "author": "scottyab",
+    "date": "2024-09-12T10:16:21Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/CheckForRootWorker.kt",
+    "author": "grubeli",
+    "date": "2021-11-16T14:04:57Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/CheckForRootWorker.kt",
+    "author": "scottyab",
+    "date": "2021-05-24T07:46:20Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/CheckForRootWorker.kt",
+    "author": "scottyab",
+    "date": "2021-05-24T07:45:07Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/CheckForRootWorker.kt",
+    "author": "scottyab",
+    "date": "2021-05-21T14:40:38Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/CheckForRootWorker.kt",
+    "author": "scottyab",
+    "date": "2021-05-08T14:18:37Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/MainActivity.kt",
+    "author": "scottyab",
+    "date": "2024-09-12T10:16:21Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/MainActivity.kt",
+    "author": "ArtsemKurantsou",
+    "date": "2024-08-05T18:31:03Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/MainActivity.kt",
+    "author": "ArtsemKurantsou",
+    "date": "2024-08-04T19:40:34Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/MainActivity.kt",
+    "author": "scottyab",
+    "date": "2021-05-08T14:18:37Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/RootItemResult.kt",
+    "author": "scottyab",
+    "date": "2024-09-12T10:16:21Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/RootItemResult.kt",
+    "author": "scottyab",
+    "date": "2021-05-08T14:18:37Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/RootSampleApp.kt",
+    "author": "scottyab",
+    "date": "2024-09-12T10:16:21Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/RootSampleApp.kt",
+    "author": "ArtsemKurantsou",
+    "date": "2024-08-04T19:40:34Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/RootSampleApp.kt",
+    "author": "scottyab",
+    "date": "2021-05-08T14:18:37Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/extensions/ViewExtensions.kt",
+    "author": "scottyab",
+    "date": "2024-09-12T10:16:21Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/extensions/ViewExtensions.kt",
+    "author": "scottyab",
+    "date": "2021-05-08T14:18:37Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/ui/ResultIconView.kt",
+    "author": "scottyab",
+    "date": "2024-09-12T10:16:21Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/ui/ResultIconView.kt",
+    "author": "scottyab",
+    "date": "2021-05-08T14:18:37Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/ui/RootItemAdapter.kt",
+    "author": "scottyab",
+    "date": "2024-09-12T10:16:21Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/ui/RootItemAdapter.kt",
+    "author": "ArtsemKurantsou",
+    "date": "2024-08-04T19:40:34Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/ui/RootItemAdapter.kt",
+    "author": "scottyab",
+    "date": "2021-05-08T14:18:37Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/ui/RootedResultTextView.kt",
+    "author": "scottyab",
+    "date": "2024-09-12T10:16:21Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/ui/RootedResultTextView.kt",
+    "author": "scottyab",
+    "date": "2021-05-08T14:18:37Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/ui/ScopedActivity.kt",
+    "author": "scottyab",
+    "date": "2024-09-12T10:16:21Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/ui/ScopedActivity.kt",
+    "author": "scottyab",
+    "date": "2021-05-08T14:18:37Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/util/Utils.java",
+    "author": "scottyab",
+    "date": "2024-09-12T10:16:21Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/util/Utils.java",
+    "author": "scottyab",
+    "date": "2021-05-08T14:18:37Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/util/Utils.java",
+    "author": "stealthcopter",
+    "date": "2019-03-14T12:24:58Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/util/Utils.java",
+    "author": "Mohammed Ezzat",
+    "date": "2016-03-15T13:13:43Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/util/Utils.java",
+    "author": "scottyab",
+    "date": "2015-06-30T14:14:08Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeerNative.java",
+    "author": "stealthcopter",
+    "date": "2021-05-24T07:35:11Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeerNative.java",
+    "author": "scottyab",
+    "date": "2021-05-08T14:18:37Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeerNative.java",
+    "author": "stealthcopter",
+    "date": "2019-03-14T12:24:58Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeerNative.java",
+    "author": "stealthcopter",
+    "date": "2017-03-29T11:18:37Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeerNative.java",
+    "author": "stealthcopter",
+    "date": "2015-06-30T14:36:54Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeerNative.java",
+    "author": "stealthcopter",
+    "date": "2015-06-30T14:14:02Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeerNative.java",
+    "author": "stealthcopter",
+    "date": "2015-06-26T15:57:05Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeerNative.java",
+    "author": "scottyab",
+    "date": "2015-06-26T15:50:40Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/cpp/toolChecker.cpp",
+    "author": "scottyab",
+    "date": "2021-05-22T13:42:21Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/cpp/toolChecker.h",
+    "author": "scottyab",
+    "date": "2021-05-22T13:42:21Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/CheckRootTask.java",
+    "author": "scottyab",
+    "date": "2021-05-08T14:18:37Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/CheckRootTask.java",
+    "author": "danielkutik",
+    "date": "2019-11-16T02:39:54Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/CheckRootTask.java",
+    "author": "stealthcopter",
+    "date": "2019-03-14T12:24:58Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/CheckRootTask.java",
+    "author": "p2paltvnv",
+    "date": "2018-03-16T16:42:19Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/CheckRootTask.java",
+    "author": "stealthcopter",
+    "date": "2017-03-29T11:18:37Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/CheckRootTask.java",
+    "author": "stealthcopter",
+    "date": "2017-02-15T12:53:36Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/CheckRootTask.java",
+    "author": "scottyab",
+    "date": "2016-07-01T20:13:06Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/CheckRootTask.java",
+    "author": "scottyab",
+    "date": "2016-07-01T14:25:44Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/CheckRootTask.java",
+    "author": "andyb129",
+    "date": "2016-07-01T14:40:45Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/MainActivity.java",
+    "author": "scottyab",
+    "date": "2021-05-08T14:18:37Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/MainActivity.java",
+    "author": "danielkutik",
+    "date": "2019-11-16T02:34:24Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/MainActivity.java",
+    "author": "stealthcopter",
+    "date": "2017-03-24T13:41:16Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/MainActivity.java",
+    "author": "scottyab",
+    "date": "2016-07-01T20:13:52Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/MainActivity.java",
+    "author": "andyb129",
+    "date": "2016-07-01T14:40:45Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/MainActivity.java",
+    "author": "Mohammed Ezzat",
+    "date": "2016-03-16T14:14:44Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/MainActivity.java",
+    "author": "scottyab",
+    "date": "2015-09-16T12:14:10Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/MainActivity.java",
+    "author": "scottyab",
+    "date": "2015-06-30T14:45:12Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/MainActivity.java",
+    "author": "scottyab",
+    "date": "2015-06-30T14:14:08Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/MainActivity.java",
+    "author": "scottyab",
+    "date": "2015-06-29T13:06:14Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/MainActivity.java",
+    "author": "scottyab",
+    "date": "2015-06-26T15:50:40Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/TextViewFont.java",
+    "author": "scottyab",
+    "date": "2021-05-08T14:18:37Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/TextViewFont.java",
+    "author": "danielkutik",
+    "date": "2019-11-16T02:39:54Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/TextViewFont.java",
+    "author": "danielkutik",
+    "date": "2019-11-16T02:34:24Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/TextViewFont.java",
+    "author": "friederbluemle",
+    "date": "2017-05-11T16:55:33Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootbeer/sample/TextViewFont.java",
+    "author": "andyb129",
+    "date": "2016-07-01T14:40:45Z"
+  },
+  {
+    "filename": "rootbeerlib/src/test/java/com/scottyab/rootbeer/RootBeerTest.java",
+    "author": "scottyab",
+    "date": "2021-05-08T14:18:37Z"
+  },
+  {
+    "filename": "rootbeerlib/src/test/java/com/scottyab/rootbeer/RootBeerTest.java",
+    "author": "stealthcopter",
+    "date": "2020-02-03T20:42:40Z"
+  },
+  {
+    "filename": "rootbeerlib/src/test/java/com/scottyab/rootbeer/RootBeerTest.java",
+    "author": "danielkutik",
+    "date": "2020-01-31T00:54:28Z"
+  },
+  {
+    "filename": "rootbeerlib/src/test/java/com/scottyab/rootbeer/RootBeerTest.java",
+    "author": "mat",
+    "date": "2020-01-30T16:12:36Z"
+  },
+  {
+    "filename": "rootbeerlib/src/test/java/com/scottyab/rootbeer/RootBeerTest.java",
+    "author": "mat",
+    "date": "2020-01-28T13:03:18Z"
+  },
+  {
+    "filename": "rootbeerlib/src/test/java/com/scottyab/rootbeer/RootBeerTest.java",
+    "author": "danielkutik",
+    "date": "2019-11-16T02:34:24Z"
+  },
+  {
+    "filename": "rootbeerlib/src/test/java/com/scottyab/rootbeer/RootBeerTest.java",
+    "author": "stealthcopter",
+    "date": "2019-03-14T12:24:58Z"
+  },
+  {
+    "filename": "rootbeerlib/src/test/java/com/scottyab/rootbeer/RootBeerTest.java",
+    "author": "stealthcopter",
+    "date": "2018-05-11T13:16:33Z"
+  },
+  {
+    "filename": "rootbeerlib/src/test/java/com/scottyab/rootbeer/RootBeerTest.java",
+    "author": "stealthcopter",
+    "date": "2017-10-31T18:57:32Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java",
+    "author": "namouchislim",
+    "date": "2020-07-21T13:19:44Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java",
+    "author": "stealthcopter",
+    "date": "2020-07-21T13:10:44Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java",
+    "author": "mat",
+    "date": "2020-02-07T09:43:09Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java",
+    "author": "stealthcopter",
+    "date": "2020-01-30T13:05:20Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java",
+    "author": "mat",
+    "date": "2020-01-28T14:06:12Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java",
+    "author": "mat",
+    "date": "2020-01-28T13:03:18Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java",
+    "author": "mat",
+    "date": "2020-01-28T12:41:49Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java",
+    "author": "BlizzedRu",
+    "date": "2019-12-09T10:32:18Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java",
+    "author": "stealthcopter",
+    "date": "2019-03-14T12:24:58Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java",
+    "author": "stealthcopter",
+    "date": "2018-05-11T12:00:38Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java",
+    "author": "stealthcopter",
+    "date": "2018-05-11T11:04:28Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java",
+    "author": "stealthcopter",
+    "date": "2018-05-11T10:59:44Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java",
+    "author": "p2paltvnv",
+    "date": "2018-03-16T16:49:07Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java",
+    "author": "p2paltvnv",
+    "date": "2018-03-16T16:42:19Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java",
+    "author": "p2paltvnv",
+    "date": "2018-03-16T12:14:23Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java",
+    "author": "stealthcopter",
+    "date": "2017-09-29T08:23:05Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java",
+    "author": "friederbluemle",
+    "date": "2017-08-19T16:20:33Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java",
+    "author": "awaseem",
+    "date": "2017-08-11T15:34:54Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java",
+    "author": "BIOCATCH\\Leon.Karabchevsky",
+    "date": "2017-06-07T07:53:52Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java",
+    "author": "vyas-n",
+    "date": "2017-05-10T19:44:29Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java",
+    "author": "stealthcopter",
+    "date": "2017-03-29T11:18:37Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java",
+    "author": "stealthcopter",
+    "date": "2017-03-24T16:11:58Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java",
+    "author": "stealthcopter",
+    "date": "2017-03-24T13:31:19Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java",
+    "author": "stealthcopter",
+    "date": "2017-03-13T22:05:11Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java",
+    "author": "stealthcopter",
+    "date": "2017-02-15T12:53:36Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java",
+    "author": "leocadiotine",
+    "date": "2016-09-14T21:25:21Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java",
+    "author": "stealthcopter",
+    "date": "2016-04-18T16:36:03Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java",
+    "author": "Mohammed Ezzat",
+    "date": "2016-03-15T13:13:43Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java",
+    "author": "stealthcopter",
+    "date": "2015-12-22T10:17:02Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java",
+    "author": "stealthcopter",
+    "date": "2015-12-22T10:11:09Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java",
+    "author": "stealthcopter",
+    "date": "2015-12-21T20:44:58Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java",
+    "author": "stealthcopter",
+    "date": "2015-12-21T20:43:55Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java",
+    "author": "scottyab",
+    "date": "2015-06-30T14:45:20Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java",
+    "author": "scottyab",
+    "date": "2015-06-30T14:45:12Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java",
+    "author": "stealthcopter",
+    "date": "2015-06-30T14:36:54Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java",
+    "author": "scottyab",
+    "date": "2015-06-30T14:14:20Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java",
+    "author": "scottyab",
+    "date": "2015-06-30T14:14:08Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java",
+    "author": "stealthcopter",
+    "date": "2015-06-30T14:14:02Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java",
+    "author": "scottyab",
+    "date": "2015-06-29T13:06:59Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java",
+    "author": "scottyab",
+    "date": "2015-06-26T15:50:40Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/util/QLog.java",
+    "author": "mat",
+    "date": "2020-02-07T09:43:09Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/util/QLog.java",
+    "author": "stealthcopter",
+    "date": "2018-05-11T11:04:52Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/util/QLog.java",
+    "author": "stealthcopter",
+    "date": "2017-10-31T18:57:32Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/util/QLog.java",
+    "author": "friederbluemle",
+    "date": "2017-08-19T16:20:33Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/util/QLog.java",
+    "author": "friederbluemle",
+    "date": "2017-05-11T16:41:00Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/util/QLog.java",
+    "author": "stealthcopter",
+    "date": "2017-02-15T12:53:36Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/util/QLog.java",
+    "author": "Mohammed Ezzat",
+    "date": "2016-03-15T13:13:43Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/util/QLog.java",
+    "author": "scottyab",
+    "date": "2015-06-26T18:48:49Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/java/com/scottyab/rootbeer/util/QLog.java",
+    "author": "scottyab",
+    "date": "2015-06-26T15:50:40Z"
+  },
+  {
+    "filename": "app/src/androidTest/java/com/scottyab/rootbeer/ApplicationTest.java",
+    "author": "danielkutik",
+    "date": "2019-11-16T02:45:47Z"
+  },
+  {
+    "filename": "app/src/androidTest/java/com/scottyab/rootbeer/ApplicationTest.java",
+    "author": "danielkutik",
+    "date": "2019-11-16T02:34:24Z"
+  },
+  {
+    "filename": "app/src/androidTest/java/com/scottyab/rootbeer/ApplicationTest.java",
+    "author": "friederbluemle",
+    "date": "2017-05-11T16:41:00Z"
+  },
+  {
+    "filename": "app/src/androidTest/java/com/scottyab/rootbeer/ApplicationTest.java",
+    "author": "scottyab",
+    "date": "2015-06-26T15:50:40Z"
+  },
+  {
+    "filename": "rootbeerlib/src/androidTest/java/com/scottyab/rootbeer/ApplicationTest.java",
+    "author": "danielkutik",
+    "date": "2019-11-16T02:45:47Z"
+  },
+  {
+    "filename": "rootbeerlib/src/androidTest/java/com/scottyab/rootbeer/ApplicationTest.java",
+    "author": "danielkutik",
+    "date": "2019-11-16T02:34:24Z"
+  },
+  {
+    "filename": "rootbeerlib/src/androidTest/java/com/scottyab/rootbeer/ApplicationTest.java",
+    "author": "friederbluemle",
+    "date": "2017-05-11T16:41:00Z"
+  },
+  {
+    "filename": "rootbeerlib/src/androidTest/java/com/scottyab/rootbeer/ApplicationTest.java",
+    "author": "scottyab",
+    "date": "2015-06-26T15:50:40Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/jni/toolChecker.cpp",
+    "author": "scottyab",
+    "date": "2021-05-22T13:42:21Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/jni/toolChecker.cpp",
+    "author": "friederbluemle",
+    "date": "2017-05-11T16:41:00Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/jni/toolChecker.cpp",
+    "author": "stealthcopter",
+    "date": "2017-03-13T22:55:31Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/jni/toolChecker.cpp",
+    "author": "stealthcopter",
+    "date": "2017-03-13T22:35:27Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/jni/toolChecker.h",
+    "author": "scottyab",
+    "date": "2021-05-22T13:42:21Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/jni/toolChecker.h",
+    "author": "friederbluemle",
+    "date": "2017-05-11T16:41:00Z"
+  },
+  {
+    "filename": "rootbeerlib/src/main/jni/toolChecker.h",
+    "author": "stealthcopter",
+    "date": "2017-03-13T22:35:27Z"
+  },
+  {
+    "filename": "rootbeerlib/jni/toolChecker.cpp",
+    "author": "stealthcopter",
+    "date": "2017-03-13T22:35:27Z"
+  },
+  {
+    "filename": "rootbeerlib/jni/toolChecker.cpp",
+    "author": "aippisch",
+    "date": "2016-09-16T14:04:45Z"
+  },
+  {
+    "filename": "rootbeerlib/jni/toolChecker.cpp",
+    "author": "stealthcopter",
+    "date": "2015-06-30T14:36:54Z"
+  },
+  {
+    "filename": "rootbeerlib/jni/toolChecker.cpp",
+    "author": "stealthcopter",
+    "date": "2015-06-30T14:14:02Z"
+  },
+  {
+    "filename": "rootbeerlib/jni/toolChecker.cpp",
+    "author": "scottyab",
+    "date": "2015-06-30T12:58:19Z"
+  },
+  {
+    "filename": "rootbeerlib/jni/toolChecker.cpp",
+    "author": "stealthcopter",
+    "date": "2015-06-26T16:10:45Z"
+  },
+  {
+    "filename": "rootbeerlib/jni/toolChecker.cpp",
+    "author": "scottyab",
+    "date": "2015-06-26T15:50:40Z"
+  },
+  {
+    "filename": "rootbeerlib/jni/toolChecker.h",
+    "author": "stealthcopter",
+    "date": "2017-03-13T22:35:27Z"
+  },
+  {
+    "filename": "rootbeerlib/jni/toolChecker.h",
+    "author": "stealthcopter",
+    "date": "2015-06-30T14:36:54Z"
+  },
+  {
+    "filename": "rootbeerlib/jni/toolChecker.h",
+    "author": "stealthcopter",
+    "date": "2015-06-30T14:14:02Z"
+  },
+  {
+    "filename": "rootbeerlib/jni/toolChecker.h",
+    "author": "stealthcopter",
+    "date": "2015-06-26T16:10:45Z"
+  },
+  {
+    "filename": "rootbeerlib/jni/toolChecker.h",
+    "author": "scottyab",
+    "date": "2015-06-26T15:50:40Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootchecker/RootCheck.java",
+    "author": "scottyab",
+    "date": "2015-06-26T15:50:40Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootchecker/RootCheck.java",
+    "author": "stealthcopter",
+    "date": "2015-06-26T14:41:45Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootchecker/RootCheck.java",
+    "author": "stealthcopter",
+    "date": "2015-06-26T14:32:45Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootchecker/RootCheck.java",
+    "author": "scottyab",
+    "date": "2015-06-19T17:21:37Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootchecker/RootCheck.java",
+    "author": "scottyab",
+    "date": "2015-06-19T17:20:07Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootchecker/RootCheck.java",
+    "author": "stealthcopter",
+    "date": "2015-06-19T10:09:22Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootchecker/RootCheck.java",
+    "author": "scottyab",
+    "date": "2015-06-19T09:05:10Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootchecker/Const.java",
+    "author": "scottyab",
+    "date": "2015-06-26T15:50:40Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootchecker/Const.java",
+    "author": "stealthcopter",
+    "date": "2015-06-26T14:32:45Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootchecker/MainActivity.java",
+    "author": "scottyab",
+    "date": "2015-06-26T15:50:40Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootchecker/MainActivity.java",
+    "author": "stealthcopter",
+    "date": "2015-06-26T14:32:45Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootchecker/MainActivity.java",
+    "author": "stealthcopter",
+    "date": "2015-06-19T10:09:22Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootchecker/MainActivity.java",
+    "author": "scottyab",
+    "date": "2015-06-19T09:05:10Z"
+  },
+  {
+    "filename": "app/jni/toolChecker.cpp",
+    "author": "scottyab",
+    "date": "2015-06-26T15:50:40Z"
+  },
+  {
+    "filename": "app/jni/toolChecker.cpp",
+    "author": "stealthcopter",
+    "date": "2015-06-19T11:06:02Z"
+  },
+  {
+    "filename": "app/jni/toolChecker.h",
+    "author": "scottyab",
+    "date": "2015-06-26T15:50:40Z"
+  },
+  {
+    "filename": "app/jni/toolChecker.h",
+    "author": "stealthcopter",
+    "date": "2015-06-19T11:06:02Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootchecker/RootCheckNative.java",
+    "author": "scottyab",
+    "date": "2015-06-26T15:50:40Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootchecker/RootCheckNative.java",
+    "author": "stealthcopter",
+    "date": "2015-06-19T11:06:02Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootchecker/RootCheckNative.java",
+    "author": "stealthcopter",
+    "date": "2015-06-19T10:09:22Z"
+  },
+  {
+    "filename": "app/jni/rootChecker.cpp",
+    "author": "stealthcopter",
+    "date": "2015-06-19T11:06:02Z"
+  },
+  {
+    "filename": "app/jni/rootChecker.cpp",
+    "author": "stealthcopter",
+    "date": "2015-06-19T10:09:22Z"
+  },
+  {
+    "filename": "app/jni/rootChecker.h",
+    "author": "stealthcopter",
+    "date": "2015-06-19T11:06:02Z"
+  },
+  {
+    "filename": "app/jni/rootChecker.h",
+    "author": "stealthcopter",
+    "date": "2015-06-19T10:09:22Z"
+  },
+  {
+    "filename": "app/src/androidTest/java/com/scottyab/rootchecker/ApplicationTest.java",
+    "author": "scottyab",
+    "date": "2015-06-26T15:50:40Z"
+  },
+  {
+    "filename": "app/src/androidTest/java/com/scottyab/rootchecker/ApplicationTest.java",
+    "author": "scottyab",
+    "date": "2015-06-19T09:05:10Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootchecker/util/QLog.java",
+    "author": "scottyab",
+    "date": "2015-06-26T15:50:40Z"
+  },
+  {
+    "filename": "app/src/main/java/com/scottyab/rootchecker/util/QLog.java",
+    "author": "scottyab",
+    "date": "2015-06-19T09:05:10Z"
+  }
+]
