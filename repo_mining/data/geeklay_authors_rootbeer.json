@@ -1,0 +1,1002 @@
+[
+    {
+        "path": "rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java",
+        "touches": 17,
+        "commits": [
+            {
+                "author": "Mato Ilic",
+                "date": "2026-03-05T18:02:12Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2021-05-08T14:18:37Z"
+            },
+            {
+                "author": "Fi5t",
+                "date": "2020-07-15T20:47:49Z"
+            },
+            {
+                "author": "mat",
+                "date": "2020-01-30T13:09:02Z"
+            },
+            {
+                "author": "mat",
+                "date": "2020-01-28T14:06:12Z"
+            },
+            {
+                "author": "Ivan Vlasov",
+                "date": "2019-12-09T10:32:18Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2019-03-14T12:24:58Z"
+            },
+            {
+                "author": "altvnv",
+                "date": "2018-03-16T16:42:19Z"
+            },
+            {
+                "author": "altvnv",
+                "date": "2018-03-16T12:02:21Z"
+            },
+            {
+                "author": "altvnv",
+                "date": "2018-03-16T11:36:53Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2017-03-24T13:30:47Z"
+            },
+            {
+                "author": "Mohammed Ezzat",
+                "date": "2016-03-15T13:13:43Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2015-09-16T12:13:36Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2015-06-30T14:59:48Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2015-06-30T13:40:46Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2015-06-29T13:06:59Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2015-06-26T15:50:40Z"
+            }
+        ]
+    },
+    {
+        "path": "app/src/main/java/com/scottyab/rootbeer/sample/CheckForRootWorker.kt",
+        "touches": 6,
+        "commits": [
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2024-09-12T10:16:21Z"
+            },
+            {
+                "author": "grubeli",
+                "date": "2021-11-16T14:04:57Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2021-05-24T07:46:20Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2021-05-24T07:45:07Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2021-05-21T14:40:38Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2021-05-08T14:18:37Z"
+            }
+        ]
+    },
+    {
+        "path": "app/src/main/java/com/scottyab/rootbeer/sample/MainActivity.kt",
+        "touches": 4,
+        "commits": [
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2024-09-12T10:16:21Z"
+            },
+            {
+                "author": "Artsem Kurantsou",
+                "date": "2024-08-05T18:31:03Z"
+            },
+            {
+                "author": "Artsem Kurantsou",
+                "date": "2024-08-04T19:40:34Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2021-05-08T14:18:37Z"
+            }
+        ]
+    },
+    {
+        "path": "app/src/main/java/com/scottyab/rootbeer/sample/RootItemResult.kt",
+        "touches": 2,
+        "commits": [
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2024-09-12T10:16:21Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2021-05-08T14:18:37Z"
+            }
+        ]
+    },
+    {
+        "path": "app/src/main/java/com/scottyab/rootbeer/sample/RootSampleApp.kt",
+        "touches": 3,
+        "commits": [
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2024-09-12T10:16:21Z"
+            },
+            {
+                "author": "Artsem Kurantsou",
+                "date": "2024-08-04T19:40:34Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2021-05-08T14:18:37Z"
+            }
+        ]
+    },
+    {
+        "path": "app/src/main/java/com/scottyab/rootbeer/sample/extensions/ViewExtensions.kt",
+        "touches": 2,
+        "commits": [
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2024-09-12T10:16:21Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2021-05-08T14:18:37Z"
+            }
+        ]
+    },
+    {
+        "path": "app/src/main/java/com/scottyab/rootbeer/sample/ui/ResultIconView.kt",
+        "touches": 2,
+        "commits": [
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2024-09-12T10:16:21Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2021-05-08T14:18:37Z"
+            }
+        ]
+    },
+    {
+        "path": "app/src/main/java/com/scottyab/rootbeer/sample/ui/RootItemAdapter.kt",
+        "touches": 3,
+        "commits": [
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2024-09-12T10:16:21Z"
+            },
+            {
+                "author": "Artsem Kurantsou",
+                "date": "2024-08-04T19:40:34Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2021-05-08T14:18:37Z"
+            }
+        ]
+    },
+    {
+        "path": "app/src/main/java/com/scottyab/rootbeer/sample/ui/RootedResultTextView.kt",
+        "touches": 2,
+        "commits": [
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2024-09-12T10:16:21Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2021-05-08T14:18:37Z"
+            }
+        ]
+    },
+    {
+        "path": "app/src/main/java/com/scottyab/rootbeer/sample/ui/ScopedActivity.kt",
+        "touches": 2,
+        "commits": [
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2024-09-12T10:16:21Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2021-05-08T14:18:37Z"
+            }
+        ]
+    },
+    {
+        "path": "rootbeerlib/src/main/java/com/scottyab/rootbeer/util/Utils.java",
+        "touches": 5,
+        "commits": [
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2024-09-12T10:16:21Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2021-05-08T14:18:37Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2019-03-14T12:24:58Z"
+            },
+            {
+                "author": "Mohammed Ezzat",
+                "date": "2016-03-15T13:13:43Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2015-06-30T14:14:08Z"
+            }
+        ]
+    },
+    {
+        "path": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeerNative.java",
+        "touches": 8,
+        "commits": [
+            {
+                "author": "Matthew Rollings",
+                "date": "2021-05-24T07:35:11Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2021-05-08T14:18:37Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2019-03-14T12:24:58Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2017-03-29T11:18:37Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2015-06-30T14:36:54Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2015-06-30T14:14:02Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2015-06-26T15:57:05Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2015-06-26T15:50:40Z"
+            }
+        ]
+    },
+    {
+        "path": "rootbeerlib/src/main/cpp/toolChecker.cpp",
+        "touches": 1,
+        "commits": [
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2021-05-22T13:42:21Z"
+            }
+        ]
+    },
+    {
+        "path": "rootbeerlib/src/main/cpp/toolChecker.h",
+        "touches": 1,
+        "commits": [
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2021-05-22T13:42:21Z"
+            }
+        ]
+    },
+    {
+        "path": "app/src/main/java/com/scottyab/rootbeer/sample/CheckRootTask.java",
+        "touches": 9,
+        "commits": [
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2021-05-08T14:18:37Z"
+            },
+            {
+                "author": "Daniel Kutik",
+                "date": "2019-11-16T02:39:54Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2019-03-14T12:24:58Z"
+            },
+            {
+                "author": "altvnv",
+                "date": "2018-03-16T16:42:19Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2017-03-29T11:18:37Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2017-02-15T12:53:36Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2016-07-01T20:13:06Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2016-07-01T14:25:44Z"
+            },
+            {
+                "author": "Andy Barber",
+                "date": "2016-07-01T14:40:45Z"
+            }
+        ]
+    },
+    {
+        "path": "app/src/main/java/com/scottyab/rootbeer/sample/MainActivity.java",
+        "touches": 11,
+        "commits": [
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2021-05-08T14:18:37Z"
+            },
+            {
+                "author": "Daniel Kutik",
+                "date": "2019-11-16T02:34:24Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2017-03-24T13:41:16Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2016-07-01T20:13:52Z"
+            },
+            {
+                "author": "Andy Barber",
+                "date": "2016-07-01T14:40:45Z"
+            },
+            {
+                "author": "Mohammed Ezzat",
+                "date": "2016-03-16T14:14:44Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2015-09-16T12:14:10Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2015-06-30T14:45:12Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2015-06-30T14:14:08Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2015-06-29T13:06:14Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2015-06-26T15:50:40Z"
+            }
+        ]
+    },
+    {
+        "path": "app/src/main/java/com/scottyab/rootbeer/sample/TextViewFont.java",
+        "touches": 5,
+        "commits": [
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2021-05-08T14:18:37Z"
+            },
+            {
+                "author": "Daniel Kutik",
+                "date": "2019-11-16T02:39:54Z"
+            },
+            {
+                "author": "Daniel Kutik",
+                "date": "2019-11-16T02:34:24Z"
+            },
+            {
+                "author": "Frieder Bluemle",
+                "date": "2017-05-11T16:55:33Z"
+            },
+            {
+                "author": "Andy Barber",
+                "date": "2016-07-01T14:40:45Z"
+            }
+        ]
+    },
+    {
+        "path": "rootbeerlib/src/test/java/com/scottyab/rootbeer/RootBeerTest.java",
+        "touches": 9,
+        "commits": [
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2021-05-08T14:18:37Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2020-02-03T20:42:40Z"
+            },
+            {
+                "author": "Daniel Kutik",
+                "date": "2020-01-31T00:54:28Z"
+            },
+            {
+                "author": "mat",
+                "date": "2020-01-30T16:12:36Z"
+            },
+            {
+                "author": "mat",
+                "date": "2020-01-28T13:03:18Z"
+            },
+            {
+                "author": "Daniel Kutik",
+                "date": "2019-11-16T02:34:24Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2019-03-14T12:24:58Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2018-05-11T13:16:33Z"
+            },
+            {
+                "author": "matthew",
+                "date": "2017-10-31T18:57:32Z"
+            }
+        ]
+    },
+    {
+        "path": "rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java",
+        "touches": 40,
+        "commits": [
+            {
+                "author": "Slim Namouchi",
+                "date": "2020-07-21T13:19:44Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2020-07-21T13:10:44Z"
+            },
+            {
+                "author": "mat",
+                "date": "2020-02-07T09:43:09Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2020-01-30T13:05:20Z"
+            },
+            {
+                "author": "mat",
+                "date": "2020-01-28T14:06:12Z"
+            },
+            {
+                "author": "mat",
+                "date": "2020-01-28T13:03:18Z"
+            },
+            {
+                "author": "mat",
+                "date": "2020-01-28T12:41:49Z"
+            },
+            {
+                "author": "Ivan Vlasov",
+                "date": "2019-12-09T10:32:18Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2019-03-14T12:24:58Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2018-05-11T12:00:38Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2018-05-11T11:04:28Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2018-05-11T10:59:44Z"
+            },
+            {
+                "author": "altvnv",
+                "date": "2018-03-16T16:49:07Z"
+            },
+            {
+                "author": "altvnv",
+                "date": "2018-03-16T16:42:19Z"
+            },
+            {
+                "author": "altvnv",
+                "date": "2018-03-16T12:14:23Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2017-09-29T08:23:05Z"
+            },
+            {
+                "author": "Frieder Bluemle",
+                "date": "2017-08-19T16:20:33Z"
+            },
+            {
+                "author": "Ali Waseem",
+                "date": "2017-08-11T15:34:54Z"
+            },
+            {
+                "author": "BIOCATCH\\Leon.Karabchevsky",
+                "date": "2017-06-07T07:53:52Z"
+            },
+            {
+                "author": "vyas",
+                "date": "2017-05-10T19:44:29Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2017-03-29T11:18:37Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2017-03-24T16:11:58Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2017-03-24T13:31:19Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2017-03-13T22:05:11Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2017-02-15T12:53:36Z"
+            },
+            {
+                "author": "leocadiotine",
+                "date": "2016-09-14T21:25:21Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2016-04-18T16:36:03Z"
+            },
+            {
+                "author": "Mohammed Ezzat",
+                "date": "2016-03-15T13:13:43Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2015-12-22T10:17:02Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2015-12-22T10:11:09Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2015-12-21T20:44:58Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2015-12-21T20:43:55Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2015-06-30T14:45:20Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2015-06-30T14:45:12Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2015-06-30T14:36:54Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2015-06-30T14:14:20Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2015-06-30T14:14:08Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2015-06-30T14:14:02Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2015-06-29T13:06:59Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2015-06-26T15:50:40Z"
+            }
+        ]
+    },
+    {
+        "path": "rootbeerlib/src/main/java/com/scottyab/rootbeer/util/QLog.java",
+        "touches": 9,
+        "commits": [
+            {
+                "author": "mat",
+                "date": "2020-02-07T09:43:09Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2018-05-11T11:04:52Z"
+            },
+            {
+                "author": "matthew",
+                "date": "2017-10-31T18:57:32Z"
+            },
+            {
+                "author": "Frieder Bluemle",
+                "date": "2017-08-19T16:20:33Z"
+            },
+            {
+                "author": "Frieder Bluemle",
+                "date": "2017-05-11T16:41:00Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2017-02-15T12:53:36Z"
+            },
+            {
+                "author": "Mohammed Ezzat",
+                "date": "2016-03-15T13:13:43Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2015-06-26T18:48:49Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2015-06-26T15:50:40Z"
+            }
+        ]
+    },
+    {
+        "path": "app/src/androidTest/java/com/scottyab/rootbeer/ApplicationTest.java",
+        "touches": 4,
+        "commits": [
+            {
+                "author": "Daniel Kutik",
+                "date": "2019-11-16T02:45:47Z"
+            },
+            {
+                "author": "Daniel Kutik",
+                "date": "2019-11-16T02:34:24Z"
+            },
+            {
+                "author": "Frieder Bluemle",
+                "date": "2017-05-11T16:41:00Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2015-06-26T15:50:40Z"
+            }
+        ]
+    },
+    {
+        "path": "rootbeerlib/src/androidTest/java/com/scottyab/rootbeer/ApplicationTest.java",
+        "touches": 4,
+        "commits": [
+            {
+                "author": "Daniel Kutik",
+                "date": "2019-11-16T02:45:47Z"
+            },
+            {
+                "author": "Daniel Kutik",
+                "date": "2019-11-16T02:34:24Z"
+            },
+            {
+                "author": "Frieder Bluemle",
+                "date": "2017-05-11T16:41:00Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2015-06-26T15:50:40Z"
+            }
+        ]
+    },
+    {
+        "path": "rootbeerlib/src/main/jni/toolChecker.cpp",
+        "touches": 4,
+        "commits": [
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2021-05-22T13:42:21Z"
+            },
+            {
+                "author": "Frieder Bluemle",
+                "date": "2017-05-11T16:41:00Z"
+            },
+            {
+                "author": "matthew",
+                "date": "2017-03-13T22:55:31Z"
+            },
+            {
+                "author": "matthew",
+                "date": "2017-03-13T22:35:27Z"
+            }
+        ]
+    },
+    {
+        "path": "rootbeerlib/src/main/jni/toolChecker.h",
+        "touches": 3,
+        "commits": [
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2021-05-22T13:42:21Z"
+            },
+            {
+                "author": "Frieder Bluemle",
+                "date": "2017-05-11T16:41:00Z"
+            },
+            {
+                "author": "matthew",
+                "date": "2017-03-13T22:35:27Z"
+            }
+        ]
+    },
+    {
+        "path": "rootbeerlib/jni/toolChecker.cpp",
+        "touches": 7,
+        "commits": [
+            {
+                "author": "matthew",
+                "date": "2017-03-13T22:35:27Z"
+            },
+            {
+                "author": "aippisch",
+                "date": "2016-09-16T14:04:45Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2015-06-30T14:36:54Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2015-06-30T14:14:02Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2015-06-30T12:58:19Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2015-06-26T16:10:45Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2015-06-26T15:50:40Z"
+            }
+        ]
+    },
+    {
+        "path": "rootbeerlib/jni/toolChecker.h",
+        "touches": 5,
+        "commits": [
+            {
+                "author": "matthew",
+                "date": "2017-03-13T22:35:27Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2015-06-30T14:36:54Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2015-06-30T14:14:02Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2015-06-26T16:10:45Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2015-06-26T15:50:40Z"
+            }
+        ]
+    },
+    {
+        "path": "app/src/main/java/com/scottyab/rootchecker/RootCheck.java",
+        "touches": 7,
+        "commits": [
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2015-06-26T15:50:40Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2015-06-26T14:41:45Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2015-06-26T14:32:45Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2015-06-19T17:21:37Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2015-06-19T17:20:07Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2015-06-19T10:09:22Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2015-06-19T09:05:10Z"
+            }
+        ]
+    },
+    {
+        "path": "app/src/main/java/com/scottyab/rootchecker/Const.java",
+        "touches": 2,
+        "commits": [
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2015-06-26T15:50:40Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2015-06-26T14:32:45Z"
+            }
+        ]
+    },
+    {
+        "path": "app/src/main/java/com/scottyab/rootchecker/MainActivity.java",
+        "touches": 4,
+        "commits": [
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2015-06-26T15:50:40Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2015-06-26T14:32:45Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2015-06-19T10:09:22Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2015-06-19T09:05:10Z"
+            }
+        ]
+    },
+    {
+        "path": "app/jni/toolChecker.cpp",
+        "touches": 2,
+        "commits": [
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2015-06-26T15:50:40Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2015-06-19T11:06:02Z"
+            }
+        ]
+    },
+    {
+        "path": "app/jni/toolChecker.h",
+        "touches": 2,
+        "commits": [
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2015-06-26T15:50:40Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2015-06-19T11:06:02Z"
+            }
+        ]
+    },
+    {
+        "path": "app/src/main/java/com/scottyab/rootchecker/RootCheckNative.java",
+        "touches": 3,
+        "commits": [
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2015-06-26T15:50:40Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2015-06-19T11:06:02Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2015-06-19T10:09:22Z"
+            }
+        ]
+    },
+    {
+        "path": "app/jni/rootChecker.cpp",
+        "touches": 2,
+        "commits": [
+            {
+                "author": "Matthew Rollings",
+                "date": "2015-06-19T11:06:02Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2015-06-19T10:09:22Z"
+            }
+        ]
+    },
+    {
+        "path": "app/jni/rootChecker.h",
+        "touches": 2,
+        "commits": [
+            {
+                "author": "Matthew Rollings",
+                "date": "2015-06-19T11:06:02Z"
+            },
+            {
+                "author": "Matthew Rollings",
+                "date": "2015-06-19T10:09:22Z"
+            }
+        ]
+    },
+    {
+        "path": "app/src/androidTest/java/com/scottyab/rootchecker/ApplicationTest.java",
+        "touches": 2,
+        "commits": [
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2015-06-26T15:50:40Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2015-06-19T09:05:10Z"
+            }
+        ]
+    },
+    {
+        "path": "app/src/main/java/com/scottyab/rootchecker/util/QLog.java",
+        "touches": 2,
+        "commits": [
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2015-06-26T15:50:40Z"
+            },
+            {
+                "author": "Scott Alexander-Bown",
+                "date": "2015-06-19T09:05:10Z"
+            }
+        ]
+    }
+]
