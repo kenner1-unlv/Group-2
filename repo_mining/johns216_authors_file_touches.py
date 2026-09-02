@@ -58,7 +58,7 @@ def get_authors(repo, dictfiles, tokens, ct):
 repo = 'scottyab/rootbeer'
 
 # Token 
-lstTokens = ["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"]
+lstTokens = []
 
 # create and read file names into file
 fs = []
