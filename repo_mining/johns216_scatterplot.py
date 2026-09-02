@@ -1,6 +1,7 @@
 import pandas as pd
 from matplotlib import pyplot as plt
 import random
+from datetime import datetime
 
 x = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 y = [125, 32, 54, 253, 67, 87, 233, 56, 67]
@@ -33,14 +34,11 @@ for author in authors:
     x = adf["Filename"].map(file_type)
     # randomize color
     color = generate_random_hex_color()
-    plt.scatter(x, y, s=150, c=[color], label=author)
+    plt.scatter(y, x, s=150, c=[color], label=author)
 
 # plot the chart 
 plt.title("Author file touches")
-plt.ylabel("Weeks since Last Commit")
-plt.xlabel("Number of Files")
+plt.xlabel("Weeks since beginning of the repository")
+plt.ylabel("Source Files")
 
 plt.show()
-
-#save to png locally
-plt.savefig("johns216_file_activity.png", dpi=200)
