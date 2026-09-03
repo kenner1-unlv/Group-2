@@ -16,25 +16,6 @@ rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java,Scott Alexander-Bown,
 rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java,Matthew Rollings,2015-06-30T13:40:46Z,17
 rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java,Scott Alexander-Bown,2015-06-29T13:06:59Z,17
 rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java,Scott Alexander-Bown,2015-06-26T15:50:40Z,17
-app/build.gradle.kts,Niall Scott,2024-10-04T07:42:57Z,6
-app/build.gradle.kts,Scott Alexander-Bown,2024-09-18T10:02:36Z,6
-app/build.gradle.kts,Scott Alexander-Bown,2024-09-12T10:16:21Z,6
-app/build.gradle.kts,Artsem Kurantsou,2024-08-17T14:34:47Z,6
-app/build.gradle.kts,Artsem Kurantsou,2024-08-05T18:31:03Z,6
-app/build.gradle.kts,Artsem Kurantsou,2024-08-04T21:18:36Z,6
-build.gradle.kts,Niall Scott,2024-10-04T07:42:57Z,3
-build.gradle.kts,Artsem Kurantsou,2024-08-17T14:34:47Z,3
-build.gradle.kts,Artsem Kurantsou,2024-08-04T21:18:36Z,3
-rootbeerlib/build.gradle.kts,Niall Scott,2024-10-04T07:42:57Z,6
-rootbeerlib/build.gradle.kts,Scott Alexander-Bown,2024-09-18T10:02:36Z,6
-rootbeerlib/build.gradle.kts,Scott Alexander-Bown,2024-09-12T10:16:21Z,6
-rootbeerlib/build.gradle.kts,Artsem Kurantsou,2024-08-05T19:48:03Z,6
-rootbeerlib/build.gradle.kts,Artsem Kurantsou,2024-08-05T19:38:36Z,6
-rootbeerlib/build.gradle.kts,Artsem Kurantsou,2024-08-04T21:18:36Z,6
-settings.gradle.kts,Niall Scott,2024-10-04T07:42:57Z,4
-settings.gradle.kts,Scott Alexander-Bown,2024-09-18T10:02:36Z,4
-settings.gradle.kts,Artsem Kurantsou,2024-08-05T18:31:03Z,4
-settings.gradle.kts,Artsem Kurantsou,2024-08-04T21:18:36Z,4
 app/src/main/java/com/scottyab/rootbeer/sample/CheckForRootWorker.kt,Scott Alexander-Bown,2024-09-12T10:16:21Z,6
 app/src/main/java/com/scottyab/rootbeer/sample/CheckForRootWorker.kt,grubeli,2021-11-16T14:04:57Z,6
 app/src/main/java/com/scottyab/rootbeer/sample/CheckForRootWorker.kt,Scott Alexander-Bown,2021-05-24T07:46:20Z,6

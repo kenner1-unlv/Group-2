@@ -1,9 +1,5 @@
 Filename,Touches
 rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java,25
-app/build.gradle.kts,6
-build.gradle.kts,3
-rootbeerlib/build.gradle.kts,6
-settings.gradle.kts,4
 app/src/main/java/com/scottyab/rootbeer/sample/CheckForRootWorker.kt,6
 app/src/main/java/com/scottyab/rootbeer/sample/MainActivity.kt,4
 app/src/main/java/com/scottyab/rootbeer/sample/RootItemResult.kt,2
