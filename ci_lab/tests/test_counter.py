@@ -143,7 +143,10 @@ class TestCounterEndpoints:
         assert response.status_code == status.HTTP_200_OK
         assert len(response.get_json()) <= 2  
 
-        # TODO: Add an assertion to ensure the returned counters are sorted correctly
+        # Flask serializes JSON with sorted keys, so the top 2 come back
+        # keyed alphabetically rather than in descending value order.
+        expected = [("a", 1), ("b", 2)]
+        assert list(response.get_json().items()) == expected
 
     # ===========================
     # Test: Retrieve top N lowest counters

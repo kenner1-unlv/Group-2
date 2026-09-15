@@ -7,6 +7,13 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest  # Use the latest Ubuntu runner
+    strategy:
+      # Run every version even if one fails, so a version-specific failure
+      # does not hide the results of the others.
+      fail-fast: false
+      matrix:
+        # Quoted so YAML does not read 3.10 as the number 3.1
+        python-version: ["3.9", "3.10", "3.11"]
     defaults:
       run:
         working-directory: ci_lab  # Set the default working directory for all steps
@@ -14,10 +21,10 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
-      - name: Set Up Python
+      - name: Set Up Python ${{ matrix.python-version }}
         uses: actions/setup-python@v5
         with:
-          python-version: "3.9"  # Ensure consistency in Python version
+          python-version: ${{ matrix.python-version }}
 
       - name: Install Dependencies
         run: |
